@@ -1,0 +1,2272 @@
+TOP.64638c29.000c44a0	START
+TOP.64638c29.000c44a0	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638c29.000c44a0	folder_config->install_dir	.
+TOP.64638c29.000c44a0	folder_config->profile_dir	.
+TOP.64638c29.000c44a0	folder_config->session_dir	.
+TOP.64638c29.000c44a0	folder_config->shared_dir	.
+TOP.64638c29.000c44a0	user_options->custom_charset_1	?l?d?u
+TOP.64638c29.000c44a0	user_options->custom_charset_2	?l?d
+TOP.64638c29.000c44a0	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638c29.000c44a0	user_options->encoding_from	utf-8
+TOP.64638c29.000c44a0	user_options->encoding_to	utf-8
+TOP.64638c29.000c44a0	user_options->rule_buf_l	:
+TOP.64638c29.000c44a0	user_options->rule_buf_r	:
+TOP.64638c29.000c44a0	user_options->session	hashcat
+TOP.64638c29.000c44a0	user_options->separator	:
+TOP.64638c29.000c44a0	user_options->limit	0
+TOP.64638c29.000c44a0	user_options->skip	0
+TOP.64638c29.000c44a0	user_options->attack_mode	3
+TOP.64638c29.000c44a0	user_options->benchmark	0
+TOP.64638c29.000c44a0	user_options->benchmark_all	0
+TOP.64638c29.000c44a0	user_options->bitmap_max	18
+TOP.64638c29.000c44a0	user_options->bitmap_min	16
+TOP.64638c29.000c44a0	user_options->debug_mode	0
+TOP.64638c29.000c44a0	user_options->hash_info	0
+TOP.64638c29.000c44a0	user_options->force	0
+TOP.64638c29.000c44a0	user_options->hwmon_disable	0
+TOP.64638c29.000c44a0	user_options->hwmon_temp_abort	90
+TOP.64638c29.000c44a0	user_options->hash_mode	0
+TOP.64638c29.000c44a0	user_options->hex_charset	0
+TOP.64638c29.000c44a0	user_options->hex_salt	0
+TOP.64638c29.000c44a0	user_options->hex_wordlist	0
+TOP.64638c29.000c44a0	user_options->hook_threads	4
+TOP.64638c29.000c44a0	user_options->identify	0
+TOP.64638c29.000c44a0	user_options->increment	1
+TOP.64638c29.000c44a0	user_options->increment_max	256
+TOP.64638c29.000c44a0	user_options->increment_min	1
+TOP.64638c29.000c44a0	user_options->keep_guessing	0
+TOP.64638c29.000c44a0	user_options->kernel_accel	0
+TOP.64638c29.000c44a0	user_options->kernel_loops	0
+TOP.64638c29.000c44a0	user_options->kernel_threads	0
+TOP.64638c29.000c44a0	user_options->keyspace	0
+TOP.64638c29.000c44a0	user_options->left	0
+TOP.64638c29.000c44a0	user_options->logfile_disable	0
+TOP.64638c29.000c44a0	user_options->loopback	0
+TOP.64638c29.000c44a0	user_options->machine_readable	0
+TOP.64638c29.000c44a0	user_options->markov_classic	0
+TOP.64638c29.000c44a0	user_options->markov_disable	0
+TOP.64638c29.000c44a0	user_options->markov_inverse	0
+TOP.64638c29.000c44a0	user_options->markov_threshold	256
+TOP.64638c29.000c44a0	user_options->multiply_accel_disable	0
+TOP.64638c29.000c44a0	user_options->backend_info	0
+TOP.64638c29.000c44a0	user_options->backend_vector_width	0
+TOP.64638c29.000c44a0	user_options->optimized_kernel_enable	0
+TOP.64638c29.000c44a0	user_options->outfile_autohex	1
+TOP.64638c29.000c44a0	user_options->outfile_check_timer	5
+TOP.64638c29.000c44a0	user_options->outfile_format	3
+TOP.64638c29.000c44a0	user_options->wordlist_autohex_disable	0
+TOP.64638c29.000c44a0	user_options->potfile_disable	0
+TOP.64638c29.000c44a0	user_options->progress_only	0
+TOP.64638c29.000c44a0	user_options->quiet	0
+TOP.64638c29.000c44a0	user_options->remove	0
+TOP.64638c29.000c44a0	user_options->remove_timer	60
+TOP.64638c29.000c44a0	user_options->restore	0
+TOP.64638c29.000c44a0	user_options->restore_disable	0
+TOP.64638c29.000c44a0	user_options->restore_timer	1
+TOP.64638c29.000c44a0	user_options->rp_files_cnt	0
+TOP.64638c29.000c44a0	user_options->rp_gen	0
+TOP.64638c29.000c44a0	user_options->rp_gen_func_max	4
+TOP.64638c29.000c44a0	user_options->rp_gen_func_min	1
+TOP.64638c29.000c44a0	user_options->rp_gen_seed	0
+TOP.64638c29.000c44a0	user_options->runtime	0
+TOP.64638c29.000c44a0	user_options->scrypt_tmto	0
+TOP.64638c29.000c44a0	user_options->segment_size	33554432
+TOP.64638c29.000c44a0	user_options->self_test_disable	0
+TOP.64638c29.000c44a0	user_options->slow_candidates	0
+TOP.64638c29.000c44a0	user_options->show	0
+TOP.64638c29.000c44a0	user_options->speed_only	0
+TOP.64638c29.000c44a0	user_options->spin_damp	0
+TOP.64638c29.000c44a0	user_options->status	0
+TOP.64638c29.000c44a0	user_options->status_json	0
+TOP.64638c29.000c44a0	user_options->status_timer	10
+TOP.64638c29.000c44a0	user_options->stdout_flag	0
+TOP.64638c29.000c44a0	user_options->usage	0
+TOP.64638c29.000c44a0	user_options->username	0
+TOP.64638c29.000c44a0	user_options->veracrypt_pim_start	485
+TOP.64638c29.000c44a0	user_options->veracrypt_pim_stop	485
+TOP.64638c29.000c44a0	user_options->version	0
+TOP.64638c29.000c44a0	user_options->workload_profile	2
+TOP.64638c29.000c44a0	user_options->brain_client	0
+TOP.64638c29.000c44a0	user_options->brain_client_features	2
+TOP.64638c29.000c44a0	user_options->brain_server	0
+TOP.64638c29.000c44a0	user_options->brain_server_timer	300
+TOP.64638c29.000c44a0	user_options->brain_port	6863
+TOP.64638c29.000c44a0	user_options->brain_session	0
+TOP.64638c29.000c44a0	hashes->hashfile	hashlist.txt
+TOP.64638c29.000c44a0	hashes->hashlist_mode	5
+TOP.64638c29.000c44a0	hashes->hashlist_format	0
+TOP.64638c29.000c44a0	hashes->hashes_cnt	0
+TOP.64638c29.000c44a0	hashes->digests_cnt	5
+TOP.64638c29.000c44a0	hashes->digests_done_pot	0
+TOP.64638c29.000c44a0	hashes->digests_done_zero	0
+TOP.64638c29.000c44a0	hashes->digests_done	0
+TOP.64638c29.000c44a0	hashes->salts_cnt	1
+TOP.64638c29.000c44a0	hashes->salts_done	0
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	START
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	mask_ctx->mask	?1
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	runtime_start	1684245593
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	runtime_stop	1684245593
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	hashes->digests_done_new	0
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c53.00095d05	STOP
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	START
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	mask_ctx->mask	?1?2
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	runtime_start	1684245594
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	runtime_stop	1684245594
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	hashes->digests_done_new	0
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c59.0006518d	STOP
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	START
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	mask_ctx->mask	?1?2?2
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	runtime_start	1684245595
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	runtime_stop	1684245595
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	hashes->digests_done_new	2
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c5a.0009efad	STOP
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	START
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	mask_ctx->mask	?1?2?2?2
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	runtime_start	1684245596
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	runtime_stop	1684245596
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	hashes->digests_done_new	3
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c5b.00088db9	STOP
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	START
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	mask_ctx->mask	?1?2?2?2?2
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	runtime_start	1684245597
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	runtime_stop	1684245597
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	hashes->digests_done_new	3
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c5c.0009c647	STOP
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	START
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	runtime_start	1684245598
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	runtime_stop	1684245600
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	hashes->digests_done_new	4
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	status-after-work	5
+TOP.64638c29.000c44a0	SUB.64638c5d.0009acc6	STOP
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	START
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	runtime_start	1684245601
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	runtime_stop	1684245605
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	hashes->digests_done_new	5
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	status-after-work	6
+TOP.64638c29.000c44a0	SUB.64638c60.00042901	STOP
+TOP.64638c29.000c44a0	proc_start	1684245545
+TOP.64638c29.000c44a0	proc_stop	1684245606
+TOP.64638c29.000c44a0	STOP
+TOP.64638cea.000e28ef	START
+TOP.64638cea.000e28ef	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638cea.000e28ef	folder_config->install_dir	.
+TOP.64638cea.000e28ef	folder_config->profile_dir	.
+TOP.64638cea.000e28ef	folder_config->session_dir	.
+TOP.64638cea.000e28ef	folder_config->shared_dir	.
+TOP.64638cea.000e28ef	user_options->custom_charset_1	?l?d?u
+TOP.64638cea.000e28ef	user_options->custom_charset_2	?l?d
+TOP.64638cea.000e28ef	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638cea.000e28ef	user_options->encoding_from	utf-8
+TOP.64638cea.000e28ef	user_options->encoding_to	utf-8
+TOP.64638cea.000e28ef	user_options->rule_buf_l	:
+TOP.64638cea.000e28ef	user_options->rule_buf_r	:
+TOP.64638cea.000e28ef	user_options->session	hashcat
+TOP.64638cea.000e28ef	user_options->separator	:
+TOP.64638cea.000e28ef	user_options->limit	0
+TOP.64638cea.000e28ef	user_options->skip	0
+TOP.64638cea.000e28ef	user_options->attack_mode	3
+TOP.64638cea.000e28ef	user_options->benchmark	0
+TOP.64638cea.000e28ef	user_options->benchmark_all	0
+TOP.64638cea.000e28ef	user_options->bitmap_max	18
+TOP.64638cea.000e28ef	user_options->bitmap_min	16
+TOP.64638cea.000e28ef	user_options->debug_mode	0
+TOP.64638cea.000e28ef	user_options->hash_info	0
+TOP.64638cea.000e28ef	user_options->force	0
+TOP.64638cea.000e28ef	user_options->hwmon_disable	0
+TOP.64638cea.000e28ef	user_options->hwmon_temp_abort	90
+TOP.64638cea.000e28ef	user_options->hash_mode	0
+TOP.64638cea.000e28ef	user_options->hex_charset	0
+TOP.64638cea.000e28ef	user_options->hex_salt	0
+TOP.64638cea.000e28ef	user_options->hex_wordlist	0
+TOP.64638cea.000e28ef	user_options->hook_threads	4
+TOP.64638cea.000e28ef	user_options->identify	0
+TOP.64638cea.000e28ef	user_options->increment	1
+TOP.64638cea.000e28ef	user_options->increment_max	256
+TOP.64638cea.000e28ef	user_options->increment_min	1
+TOP.64638cea.000e28ef	user_options->keep_guessing	0
+TOP.64638cea.000e28ef	user_options->kernel_accel	0
+TOP.64638cea.000e28ef	user_options->kernel_loops	0
+TOP.64638cea.000e28ef	user_options->kernel_threads	0
+TOP.64638cea.000e28ef	user_options->keyspace	0
+TOP.64638cea.000e28ef	user_options->left	0
+TOP.64638cea.000e28ef	user_options->logfile_disable	0
+TOP.64638cea.000e28ef	user_options->loopback	0
+TOP.64638cea.000e28ef	user_options->machine_readable	0
+TOP.64638cea.000e28ef	user_options->markov_classic	0
+TOP.64638cea.000e28ef	user_options->markov_disable	0
+TOP.64638cea.000e28ef	user_options->markov_inverse	0
+TOP.64638cea.000e28ef	user_options->markov_threshold	256
+TOP.64638cea.000e28ef	user_options->multiply_accel_disable	0
+TOP.64638cea.000e28ef	user_options->backend_info	0
+TOP.64638cea.000e28ef	user_options->backend_vector_width	0
+TOP.64638cea.000e28ef	user_options->optimized_kernel_enable	0
+TOP.64638cea.000e28ef	user_options->outfile_autohex	1
+TOP.64638cea.000e28ef	user_options->outfile_check_timer	5
+TOP.64638cea.000e28ef	user_options->outfile_format	3
+TOP.64638cea.000e28ef	user_options->wordlist_autohex_disable	0
+TOP.64638cea.000e28ef	user_options->potfile_disable	0
+TOP.64638cea.000e28ef	user_options->progress_only	0
+TOP.64638cea.000e28ef	user_options->quiet	0
+TOP.64638cea.000e28ef	user_options->remove	0
+TOP.64638cea.000e28ef	user_options->remove_timer	60
+TOP.64638cea.000e28ef	user_options->restore	0
+TOP.64638cea.000e28ef	user_options->restore_disable	0
+TOP.64638cea.000e28ef	user_options->restore_timer	1
+TOP.64638cea.000e28ef	user_options->rp_files_cnt	0
+TOP.64638cea.000e28ef	user_options->rp_gen	0
+TOP.64638cea.000e28ef	user_options->rp_gen_func_max	4
+TOP.64638cea.000e28ef	user_options->rp_gen_func_min	1
+TOP.64638cea.000e28ef	user_options->rp_gen_seed	0
+TOP.64638cea.000e28ef	user_options->runtime	0
+TOP.64638cea.000e28ef	user_options->scrypt_tmto	0
+TOP.64638cea.000e28ef	user_options->segment_size	33554432
+TOP.64638cea.000e28ef	user_options->self_test_disable	0
+TOP.64638cea.000e28ef	user_options->slow_candidates	0
+TOP.64638cea.000e28ef	user_options->show	0
+TOP.64638cea.000e28ef	user_options->speed_only	0
+TOP.64638cea.000e28ef	user_options->spin_damp	0
+TOP.64638cea.000e28ef	user_options->status	0
+TOP.64638cea.000e28ef	user_options->status_json	0
+TOP.64638cea.000e28ef	user_options->status_timer	10
+TOP.64638cea.000e28ef	user_options->stdout_flag	0
+TOP.64638cea.000e28ef	user_options->usage	0
+TOP.64638cea.000e28ef	user_options->username	0
+TOP.64638cea.000e28ef	user_options->veracrypt_pim_start	485
+TOP.64638cea.000e28ef	user_options->veracrypt_pim_stop	485
+TOP.64638cea.000e28ef	user_options->version	0
+TOP.64638cea.000e28ef	user_options->workload_profile	2
+TOP.64638cea.000e28ef	user_options->brain_client	0
+TOP.64638cea.000e28ef	user_options->brain_client_features	2
+TOP.64638cea.000e28ef	user_options->brain_server	0
+TOP.64638cea.000e28ef	user_options->brain_server_timer	300
+TOP.64638cea.000e28ef	user_options->brain_port	6863
+TOP.64638cea.000e28ef	user_options->brain_session	0
+TOP.64638cea.000e28ef	hashes->hashfile	hashlist.txt
+TOP.64638cea.000e28ef	hashes->hashlist_mode	5
+TOP.64638cea.000e28ef	hashes->hashlist_format	0
+TOP.64638cea.000e28ef	hashes->hashes_cnt	0
+TOP.64638cea.000e28ef	hashes->digests_cnt	6
+TOP.64638cea.000e28ef	hashes->digests_done_pot	5
+TOP.64638cea.000e28ef	hashes->digests_done_zero	0
+TOP.64638cea.000e28ef	hashes->digests_done	5
+TOP.64638cea.000e28ef	hashes->salts_cnt	1
+TOP.64638cea.000e28ef	hashes->salts_done	0
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	START
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	mask_ctx->mask	?1
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	runtime_start	1684245742
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	runtime_stop	1684245742
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638ced.00040640	STOP
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	START
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	mask_ctx->mask	?1?2
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	runtime_start	1684245743
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	runtime_stop	1684245743
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638cee.0008250a	STOP
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	START
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	mask_ctx->mask	?1?2?2
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	runtime_start	1684245744
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	runtime_stop	1684245744
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638cef.00064696	STOP
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	START
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	mask_ctx->mask	?1?2?2?2
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	runtime_start	1684245745
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	runtime_stop	1684245745
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638cf0.0004c0d0	STOP
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	START
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	mask_ctx->mask	?1?2?2?2?2
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	runtime_start	1684245745
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	runtime_stop	1684245746
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638cf1.0002648e	STOP
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	START
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	runtime_start	1684245746
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	runtime_stop	1684245748
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	status-after-work	5
+TOP.64638cea.000e28ef	SUB.64638cf2.00021ed9	STOP
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	START
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	runtime_start	1684245749
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	runtime_stop	1684245786
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	hashes->digests_done_new	0
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	status-after-work	8
+TOP.64638cea.000e28ef	SUB.64638cf4.0008fd7f	STOP
+TOP.64638cea.000e28ef	proc_start	1684245738
+TOP.64638cea.000e28ef	proc_stop	1684245788
+TOP.64638cea.000e28ef	STOP
+TOP.64638d71.000b2f75	START
+TOP.64638d71.000b2f75	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638d71.000b2f75	folder_config->install_dir	.
+TOP.64638d71.000b2f75	folder_config->profile_dir	.
+TOP.64638d71.000b2f75	folder_config->session_dir	.
+TOP.64638d71.000b2f75	folder_config->shared_dir	.
+TOP.64638d71.000b2f75	user_options->custom_charset_1	?l?d?u
+TOP.64638d71.000b2f75	user_options->custom_charset_2	?l?d
+TOP.64638d71.000b2f75	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638d71.000b2f75	user_options->encoding_from	utf-8
+TOP.64638d71.000b2f75	user_options->encoding_to	utf-8
+TOP.64638d71.000b2f75	user_options->rule_buf_l	:
+TOP.64638d71.000b2f75	user_options->rule_buf_r	:
+TOP.64638d71.000b2f75	user_options->session	hashcat
+TOP.64638d71.000b2f75	user_options->separator	:
+TOP.64638d71.000b2f75	user_options->limit	0
+TOP.64638d71.000b2f75	user_options->skip	0
+TOP.64638d71.000b2f75	user_options->attack_mode	3
+TOP.64638d71.000b2f75	user_options->benchmark	0
+TOP.64638d71.000b2f75	user_options->benchmark_all	0
+TOP.64638d71.000b2f75	user_options->bitmap_max	18
+TOP.64638d71.000b2f75	user_options->bitmap_min	16
+TOP.64638d71.000b2f75	user_options->debug_mode	0
+TOP.64638d71.000b2f75	user_options->hash_info	0
+TOP.64638d71.000b2f75	user_options->force	0
+TOP.64638d71.000b2f75	user_options->hwmon_disable	0
+TOP.64638d71.000b2f75	user_options->hwmon_temp_abort	90
+TOP.64638d71.000b2f75	user_options->hash_mode	0
+TOP.64638d71.000b2f75	user_options->hex_charset	0
+TOP.64638d71.000b2f75	user_options->hex_salt	0
+TOP.64638d71.000b2f75	user_options->hex_wordlist	0
+TOP.64638d71.000b2f75	user_options->hook_threads	4
+TOP.64638d71.000b2f75	user_options->identify	0
+TOP.64638d71.000b2f75	user_options->increment	1
+TOP.64638d71.000b2f75	user_options->increment_max	256
+TOP.64638d71.000b2f75	user_options->increment_min	1
+TOP.64638d71.000b2f75	user_options->keep_guessing	0
+TOP.64638d71.000b2f75	user_options->kernel_accel	0
+TOP.64638d71.000b2f75	user_options->kernel_loops	0
+TOP.64638d71.000b2f75	user_options->kernel_threads	0
+TOP.64638d71.000b2f75	user_options->keyspace	0
+TOP.64638d71.000b2f75	user_options->left	0
+TOP.64638d71.000b2f75	user_options->logfile_disable	0
+TOP.64638d71.000b2f75	user_options->loopback	0
+TOP.64638d71.000b2f75	user_options->machine_readable	0
+TOP.64638d71.000b2f75	user_options->markov_classic	0
+TOP.64638d71.000b2f75	user_options->markov_disable	0
+TOP.64638d71.000b2f75	user_options->markov_inverse	0
+TOP.64638d71.000b2f75	user_options->markov_threshold	256
+TOP.64638d71.000b2f75	user_options->multiply_accel_disable	0
+TOP.64638d71.000b2f75	user_options->backend_info	0
+TOP.64638d71.000b2f75	user_options->backend_vector_width	0
+TOP.64638d71.000b2f75	user_options->optimized_kernel_enable	0
+TOP.64638d71.000b2f75	user_options->outfile_autohex	1
+TOP.64638d71.000b2f75	user_options->outfile_check_timer	5
+TOP.64638d71.000b2f75	user_options->outfile_format	3
+TOP.64638d71.000b2f75	user_options->wordlist_autohex_disable	0
+TOP.64638d71.000b2f75	user_options->potfile_disable	0
+TOP.64638d71.000b2f75	user_options->progress_only	0
+TOP.64638d71.000b2f75	user_options->quiet	0
+TOP.64638d71.000b2f75	user_options->remove	0
+TOP.64638d71.000b2f75	user_options->remove_timer	60
+TOP.64638d71.000b2f75	user_options->restore	0
+TOP.64638d71.000b2f75	user_options->restore_disable	0
+TOP.64638d71.000b2f75	user_options->restore_timer	1
+TOP.64638d71.000b2f75	user_options->rp_files_cnt	0
+TOP.64638d71.000b2f75	user_options->rp_gen	0
+TOP.64638d71.000b2f75	user_options->rp_gen_func_max	4
+TOP.64638d71.000b2f75	user_options->rp_gen_func_min	1
+TOP.64638d71.000b2f75	user_options->rp_gen_seed	0
+TOP.64638d71.000b2f75	user_options->runtime	0
+TOP.64638d71.000b2f75	user_options->scrypt_tmto	0
+TOP.64638d71.000b2f75	user_options->segment_size	33554432
+TOP.64638d71.000b2f75	user_options->self_test_disable	0
+TOP.64638d71.000b2f75	user_options->slow_candidates	0
+TOP.64638d71.000b2f75	user_options->show	0
+TOP.64638d71.000b2f75	user_options->speed_only	0
+TOP.64638d71.000b2f75	user_options->spin_damp	0
+TOP.64638d71.000b2f75	user_options->status	0
+TOP.64638d71.000b2f75	user_options->status_json	0
+TOP.64638d71.000b2f75	user_options->status_timer	10
+TOP.64638d71.000b2f75	user_options->stdout_flag	0
+TOP.64638d71.000b2f75	user_options->usage	0
+TOP.64638d71.000b2f75	user_options->username	0
+TOP.64638d71.000b2f75	user_options->veracrypt_pim_start	485
+TOP.64638d71.000b2f75	user_options->veracrypt_pim_stop	485
+TOP.64638d71.000b2f75	user_options->version	0
+TOP.64638d71.000b2f75	user_options->workload_profile	2
+TOP.64638d71.000b2f75	user_options->brain_client	0
+TOP.64638d71.000b2f75	user_options->brain_client_features	2
+TOP.64638d71.000b2f75	user_options->brain_server	0
+TOP.64638d71.000b2f75	user_options->brain_server_timer	300
+TOP.64638d71.000b2f75	user_options->brain_port	6863
+TOP.64638d71.000b2f75	user_options->brain_session	0
+TOP.64638d71.000b2f75	hashes->hashfile	hashlist.txt
+TOP.64638d71.000b2f75	hashes->hashlist_mode	5
+TOP.64638d71.000b2f75	hashes->hashlist_format	0
+TOP.64638d71.000b2f75	hashes->hashes_cnt	0
+TOP.64638d71.000b2f75	hashes->digests_cnt	6
+TOP.64638d71.000b2f75	hashes->digests_done_pot	5
+TOP.64638d71.000b2f75	hashes->digests_done_zero	0
+TOP.64638d71.000b2f75	hashes->digests_done	5
+TOP.64638d71.000b2f75	hashes->salts_cnt	1
+TOP.64638d71.000b2f75	hashes->salts_done	0
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	START
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	mask_ctx->mask	?1
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	runtime_start	1684245877
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	runtime_stop	1684245877
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d74.0005b804	STOP
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	START
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	mask_ctx->mask	?1?2
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	runtime_start	1684245879
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	runtime_stop	1684245879
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d76.00007a31	STOP
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	START
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	mask_ctx->mask	?1?2?2
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	runtime_start	1684245880
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	runtime_stop	1684245880
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d77.0002b38a	STOP
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	START
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	mask_ctx->mask	?1?2?2?2
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	runtime_start	1684245880
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	runtime_stop	1684245881
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d78.00020872	STOP
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	START
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	mask_ctx->mask	?1?2?2?2?2
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	runtime_start	1684245881
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	runtime_stop	1684245881
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d79.0001528e	STOP
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	START
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	runtime_start	1684245882
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	runtime_stop	1684245884
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d7a.0000e230	STOP
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	START
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	runtime_start	1684245885
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	runtime_stop	1684245960
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	status-after-work	5
+TOP.64638d71.000b2f75	SUB.64638d7c.00070f45	STOP
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	START
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	mask_ctx->mask	?1?2?2?2?2?2?2?3
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	runtime_start	1684245961
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	runtime_stop	1684245965
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	hashes->digests_done_new	0
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	status-after-work	8
+TOP.64638d71.000b2f75	SUB.64638dc8.000a7ff7	STOP
+TOP.64638d71.000b2f75	proc_start	1684245873
+TOP.64638d71.000b2f75	proc_stop	1684245967
+TOP.64638d71.000b2f75	STOP
+TOP.64638dd5.0003815e	START
+TOP.64638dd5.0003815e	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638dd5.0003815e	folder_config->install_dir	.
+TOP.64638dd5.0003815e	folder_config->profile_dir	.
+TOP.64638dd5.0003815e	folder_config->session_dir	.
+TOP.64638dd5.0003815e	folder_config->shared_dir	.
+TOP.64638dd5.0003815e	user_options->custom_charset_1	?l?d?u
+TOP.64638dd5.0003815e	user_options->custom_charset_2	?l?d
+TOP.64638dd5.0003815e	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638dd5.0003815e	user_options->encoding_from	utf-8
+TOP.64638dd5.0003815e	user_options->encoding_to	utf-8
+TOP.64638dd5.0003815e	user_options->rule_buf_l	:
+TOP.64638dd5.0003815e	user_options->rule_buf_r	:
+TOP.64638dd5.0003815e	user_options->session	hashcat
+TOP.64638dd5.0003815e	user_options->separator	:
+TOP.64638dd5.0003815e	user_options->limit	0
+TOP.64638dd5.0003815e	user_options->skip	0
+TOP.64638dd5.0003815e	user_options->attack_mode	3
+TOP.64638dd5.0003815e	user_options->benchmark	0
+TOP.64638dd5.0003815e	user_options->benchmark_all	0
+TOP.64638dd5.0003815e	user_options->bitmap_max	18
+TOP.64638dd5.0003815e	user_options->bitmap_min	16
+TOP.64638dd5.0003815e	user_options->debug_mode	0
+TOP.64638dd5.0003815e	user_options->hash_info	0
+TOP.64638dd5.0003815e	user_options->force	0
+TOP.64638dd5.0003815e	user_options->hwmon_disable	0
+TOP.64638dd5.0003815e	user_options->hwmon_temp_abort	90
+TOP.64638dd5.0003815e	user_options->hash_mode	0
+TOP.64638dd5.0003815e	user_options->hex_charset	0
+TOP.64638dd5.0003815e	user_options->hex_salt	0
+TOP.64638dd5.0003815e	user_options->hex_wordlist	0
+TOP.64638dd5.0003815e	user_options->hook_threads	4
+TOP.64638dd5.0003815e	user_options->identify	0
+TOP.64638dd5.0003815e	user_options->increment	1
+TOP.64638dd5.0003815e	user_options->increment_max	256
+TOP.64638dd5.0003815e	user_options->increment_min	1
+TOP.64638dd5.0003815e	user_options->keep_guessing	0
+TOP.64638dd5.0003815e	user_options->kernel_accel	0
+TOP.64638dd5.0003815e	user_options->kernel_loops	0
+TOP.64638dd5.0003815e	user_options->kernel_threads	0
+TOP.64638dd5.0003815e	user_options->keyspace	0
+TOP.64638dd5.0003815e	user_options->left	0
+TOP.64638dd5.0003815e	user_options->logfile_disable	0
+TOP.64638dd5.0003815e	user_options->loopback	0
+TOP.64638dd5.0003815e	user_options->machine_readable	0
+TOP.64638dd5.0003815e	user_options->markov_classic	0
+TOP.64638dd5.0003815e	user_options->markov_disable	0
+TOP.64638dd5.0003815e	user_options->markov_inverse	0
+TOP.64638dd5.0003815e	user_options->markov_threshold	256
+TOP.64638dd5.0003815e	user_options->multiply_accel_disable	0
+TOP.64638dd5.0003815e	user_options->backend_info	0
+TOP.64638dd5.0003815e	user_options->backend_vector_width	0
+TOP.64638dd5.0003815e	user_options->optimized_kernel_enable	0
+TOP.64638dd5.0003815e	user_options->outfile_autohex	1
+TOP.64638dd5.0003815e	user_options->outfile_check_timer	5
+TOP.64638dd5.0003815e	user_options->outfile_format	3
+TOP.64638dd5.0003815e	user_options->wordlist_autohex_disable	0
+TOP.64638dd5.0003815e	user_options->potfile_disable	0
+TOP.64638dd5.0003815e	user_options->progress_only	0
+TOP.64638dd5.0003815e	user_options->quiet	0
+TOP.64638dd5.0003815e	user_options->remove	0
+TOP.64638dd5.0003815e	user_options->remove_timer	60
+TOP.64638dd5.0003815e	user_options->restore	0
+TOP.64638dd5.0003815e	user_options->restore_disable	0
+TOP.64638dd5.0003815e	user_options->restore_timer	1
+TOP.64638dd5.0003815e	user_options->rp_files_cnt	0
+TOP.64638dd5.0003815e	user_options->rp_gen	0
+TOP.64638dd5.0003815e	user_options->rp_gen_func_max	4
+TOP.64638dd5.0003815e	user_options->rp_gen_func_min	1
+TOP.64638dd5.0003815e	user_options->rp_gen_seed	0
+TOP.64638dd5.0003815e	user_options->runtime	0
+TOP.64638dd5.0003815e	user_options->scrypt_tmto	0
+TOP.64638dd5.0003815e	user_options->segment_size	33554432
+TOP.64638dd5.0003815e	user_options->self_test_disable	0
+TOP.64638dd5.0003815e	user_options->slow_candidates	0
+TOP.64638dd5.0003815e	user_options->show	0
+TOP.64638dd5.0003815e	user_options->speed_only	0
+TOP.64638dd5.0003815e	user_options->spin_damp	0
+TOP.64638dd5.0003815e	user_options->status	0
+TOP.64638dd5.0003815e	user_options->status_json	0
+TOP.64638dd5.0003815e	user_options->status_timer	10
+TOP.64638dd5.0003815e	user_options->stdout_flag	0
+TOP.64638dd5.0003815e	user_options->usage	0
+TOP.64638dd5.0003815e	user_options->username	0
+TOP.64638dd5.0003815e	user_options->veracrypt_pim_start	485
+TOP.64638dd5.0003815e	user_options->veracrypt_pim_stop	485
+TOP.64638dd5.0003815e	user_options->version	0
+TOP.64638dd5.0003815e	user_options->workload_profile	2
+TOP.64638dd5.0003815e	user_options->brain_client	0
+TOP.64638dd5.0003815e	user_options->brain_client_features	2
+TOP.64638dd5.0003815e	user_options->brain_server	0
+TOP.64638dd5.0003815e	user_options->brain_server_timer	300
+TOP.64638dd5.0003815e	user_options->brain_port	6863
+TOP.64638dd5.0003815e	user_options->brain_session	0
+TOP.64638dd5.0003815e	hashes->hashfile	hashlist.txt
+TOP.64638dd5.0003815e	hashes->hashlist_mode	5
+TOP.64638dd5.0003815e	hashes->hashlist_format	0
+TOP.64638dd5.0003815e	hashes->hashes_cnt	0
+TOP.64638dd5.0003815e	hashes->digests_cnt	7
+TOP.64638dd5.0003815e	hashes->digests_done_pot	5
+TOP.64638dd5.0003815e	hashes->digests_done_zero	0
+TOP.64638dd5.0003815e	hashes->digests_done	5
+TOP.64638dd5.0003815e	hashes->salts_cnt	1
+TOP.64638dd5.0003815e	hashes->salts_done	0
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	START
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	mask_ctx->mask	?1
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	runtime_start	1684245977
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	runtime_stop	1684245977
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	hashes->digests_done_new	0
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638dd8.0002160e	STOP
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	START
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	mask_ctx->mask	?1?2
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	runtime_start	1684245978
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	runtime_stop	1684245978
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638dd9.00033c3e	STOP
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	START
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	mask_ctx->mask	?1?2?2
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	runtime_start	1684245978
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	runtime_stop	1684245978
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638dda.0001a8b9	STOP
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	START
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	mask_ctx->mask	?1?2?2?2
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	runtime_start	1684245979
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	runtime_stop	1684245979
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638dda.000e27e9	STOP
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	START
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	mask_ctx->mask	?1?2?2?2?2
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	runtime_start	1684245980
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	runtime_stop	1684245980
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638ddb.000d942c	STOP
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	START
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	runtime_start	1684245981
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	runtime_stop	1684245983
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	status-after-work	5
+TOP.64638dd5.0003815e	SUB.64638ddc.000d29fc	STOP
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	START
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	runtime_start	1684245983
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	runtime_stop	1684246038
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	hashes->digests_done_new	1
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	status-after-work	8
+TOP.64638dd5.0003815e	SUB.64638ddf.00026167	STOP
+TOP.64638dd5.0003815e	proc_start	1684245973
+TOP.64638dd5.0003815e	proc_stop	1684246040
+TOP.64638dd5.0003815e	STOP
+TOP.64638e26.00070031	START
+TOP.64638e26.00070031	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638e26.00070031	folder_config->install_dir	.
+TOP.64638e26.00070031	folder_config->profile_dir	.
+TOP.64638e26.00070031	folder_config->session_dir	.
+TOP.64638e26.00070031	folder_config->shared_dir	.
+TOP.64638e26.00070031	user_options->custom_charset_1	?l?d?u
+TOP.64638e26.00070031	user_options->custom_charset_2	?l?d
+TOP.64638e26.00070031	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638e26.00070031	user_options->encoding_from	utf-8
+TOP.64638e26.00070031	user_options->encoding_to	utf-8
+TOP.64638e26.00070031	user_options->rule_buf_l	:
+TOP.64638e26.00070031	user_options->rule_buf_r	:
+TOP.64638e26.00070031	user_options->session	hashcat
+TOP.64638e26.00070031	user_options->separator	:
+TOP.64638e26.00070031	user_options->limit	0
+TOP.64638e26.00070031	user_options->skip	0
+TOP.64638e26.00070031	user_options->attack_mode	3
+TOP.64638e26.00070031	user_options->benchmark	0
+TOP.64638e26.00070031	user_options->benchmark_all	0
+TOP.64638e26.00070031	user_options->bitmap_max	18
+TOP.64638e26.00070031	user_options->bitmap_min	16
+TOP.64638e26.00070031	user_options->debug_mode	0
+TOP.64638e26.00070031	user_options->hash_info	0
+TOP.64638e26.00070031	user_options->force	0
+TOP.64638e26.00070031	user_options->hwmon_disable	0
+TOP.64638e26.00070031	user_options->hwmon_temp_abort	90
+TOP.64638e26.00070031	user_options->hash_mode	0
+TOP.64638e26.00070031	user_options->hex_charset	0
+TOP.64638e26.00070031	user_options->hex_salt	0
+TOP.64638e26.00070031	user_options->hex_wordlist	0
+TOP.64638e26.00070031	user_options->hook_threads	4
+TOP.64638e26.00070031	user_options->identify	0
+TOP.64638e26.00070031	user_options->increment	1
+TOP.64638e26.00070031	user_options->increment_max	256
+TOP.64638e26.00070031	user_options->increment_min	1
+TOP.64638e26.00070031	user_options->keep_guessing	0
+TOP.64638e26.00070031	user_options->kernel_accel	0
+TOP.64638e26.00070031	user_options->kernel_loops	0
+TOP.64638e26.00070031	user_options->kernel_threads	0
+TOP.64638e26.00070031	user_options->keyspace	0
+TOP.64638e26.00070031	user_options->left	0
+TOP.64638e26.00070031	user_options->logfile_disable	0
+TOP.64638e26.00070031	user_options->loopback	0
+TOP.64638e26.00070031	user_options->machine_readable	0
+TOP.64638e26.00070031	user_options->markov_classic	0
+TOP.64638e26.00070031	user_options->markov_disable	0
+TOP.64638e26.00070031	user_options->markov_inverse	0
+TOP.64638e26.00070031	user_options->markov_threshold	256
+TOP.64638e26.00070031	user_options->multiply_accel_disable	0
+TOP.64638e26.00070031	user_options->backend_info	0
+TOP.64638e26.00070031	user_options->backend_vector_width	0
+TOP.64638e26.00070031	user_options->optimized_kernel_enable	0
+TOP.64638e26.00070031	user_options->outfile_autohex	1
+TOP.64638e26.00070031	user_options->outfile_check_timer	5
+TOP.64638e26.00070031	user_options->outfile_format	3
+TOP.64638e26.00070031	user_options->wordlist_autohex_disable	0
+TOP.64638e26.00070031	user_options->potfile_disable	0
+TOP.64638e26.00070031	user_options->progress_only	0
+TOP.64638e26.00070031	user_options->quiet	0
+TOP.64638e26.00070031	user_options->remove	0
+TOP.64638e26.00070031	user_options->remove_timer	60
+TOP.64638e26.00070031	user_options->restore	0
+TOP.64638e26.00070031	user_options->restore_disable	0
+TOP.64638e26.00070031	user_options->restore_timer	1
+TOP.64638e26.00070031	user_options->rp_files_cnt	0
+TOP.64638e26.00070031	user_options->rp_gen	0
+TOP.64638e26.00070031	user_options->rp_gen_func_max	4
+TOP.64638e26.00070031	user_options->rp_gen_func_min	1
+TOP.64638e26.00070031	user_options->rp_gen_seed	0
+TOP.64638e26.00070031	user_options->runtime	0
+TOP.64638e26.00070031	user_options->scrypt_tmto	0
+TOP.64638e26.00070031	user_options->segment_size	33554432
+TOP.64638e26.00070031	user_options->self_test_disable	0
+TOP.64638e26.00070031	user_options->slow_candidates	0
+TOP.64638e26.00070031	user_options->show	0
+TOP.64638e26.00070031	user_options->speed_only	0
+TOP.64638e26.00070031	user_options->spin_damp	0
+TOP.64638e26.00070031	user_options->status	0
+TOP.64638e26.00070031	user_options->status_json	0
+TOP.64638e26.00070031	user_options->status_timer	10
+TOP.64638e26.00070031	user_options->stdout_flag	0
+TOP.64638e26.00070031	user_options->usage	0
+TOP.64638e26.00070031	user_options->username	0
+TOP.64638e26.00070031	user_options->veracrypt_pim_start	485
+TOP.64638e26.00070031	user_options->veracrypt_pim_stop	485
+TOP.64638e26.00070031	user_options->version	0
+TOP.64638e26.00070031	user_options->workload_profile	2
+TOP.64638e26.00070031	user_options->brain_client	0
+TOP.64638e26.00070031	user_options->brain_client_features	2
+TOP.64638e26.00070031	user_options->brain_server	0
+TOP.64638e26.00070031	user_options->brain_server_timer	300
+TOP.64638e26.00070031	user_options->brain_port	6863
+TOP.64638e26.00070031	user_options->brain_session	0
+TOP.64638e26.00070031	hashes->hashfile	hashlist.txt
+TOP.64638e26.00070031	hashes->hashlist_mode	5
+TOP.64638e26.00070031	hashes->hashlist_format	0
+TOP.64638e26.00070031	hashes->hashes_cnt	0
+TOP.64638e26.00070031	hashes->digests_cnt	8
+TOP.64638e26.00070031	hashes->digests_done_pot	6
+TOP.64638e26.00070031	hashes->digests_done_zero	0
+TOP.64638e26.00070031	hashes->digests_done	6
+TOP.64638e26.00070031	hashes->salts_cnt	1
+TOP.64638e26.00070031	hashes->salts_done	0
+TOP.64638e26.00070031	SUB.64638e28.0005075c	START
+TOP.64638e26.00070031	SUB.64638e28.0005075c	mask_ctx->mask	?1
+TOP.64638e26.00070031	SUB.64638e28.0005075c	runtime_start	1684246057
+TOP.64638e26.00070031	SUB.64638e28.0005075c	runtime_stop	1684246057
+TOP.64638e26.00070031	SUB.64638e28.0005075c	hashes->digests_done_new	0
+TOP.64638e26.00070031	SUB.64638e28.0005075c	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e28.0005075c	STOP
+TOP.64638e26.00070031	SUB.64638e29.0003244e	START
+TOP.64638e26.00070031	SUB.64638e29.0003244e	mask_ctx->mask	?1?2
+TOP.64638e26.00070031	SUB.64638e29.0003244e	runtime_start	1684246057
+TOP.64638e26.00070031	SUB.64638e29.0003244e	runtime_stop	1684246057
+TOP.64638e26.00070031	SUB.64638e29.0003244e	hashes->digests_done_new	0
+TOP.64638e26.00070031	SUB.64638e29.0003244e	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e29.0003244e	STOP
+TOP.64638e26.00070031	SUB.64638e29.000e922b	START
+TOP.64638e26.00070031	SUB.64638e29.000e922b	mask_ctx->mask	?1?2?2
+TOP.64638e26.00070031	SUB.64638e29.000e922b	runtime_start	1684246058
+TOP.64638e26.00070031	SUB.64638e29.000e922b	runtime_stop	1684246058
+TOP.64638e26.00070031	SUB.64638e29.000e922b	hashes->digests_done_new	0
+TOP.64638e26.00070031	SUB.64638e29.000e922b	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e29.000e922b	STOP
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	START
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	mask_ctx->mask	?1?2?2?2
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	runtime_start	1684246059
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	runtime_stop	1684246059
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	hashes->digests_done_new	1
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e2a.000c9bb8	STOP
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	START
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	mask_ctx->mask	?1?2?2?2?2
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	runtime_start	1684246060
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	runtime_stop	1684246060
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	hashes->digests_done_new	1
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e2b.000b5c14	STOP
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	START
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	runtime_start	1684246061
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	runtime_stop	1684246063
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	hashes->digests_done_new	1
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	status-after-work	5
+TOP.64638e26.00070031	SUB.64638e2c.000ba08a	STOP
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	START
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	runtime_start	1684246064
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	runtime_stop	1684246161
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	hashes->digests_done_new	1
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	status-after-work	8
+TOP.64638e26.00070031	SUB.64638e2f.000c3f89	STOP
+TOP.64638e26.00070031	proc_start	1684246054
+TOP.64638e26.00070031	proc_stop	1684246163
+TOP.64638e26.00070031	STOP
+TOP.64638e9f.0004a25d	START
+TOP.64638e9f.0004a25d	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64638e9f.0004a25d	folder_config->install_dir	.
+TOP.64638e9f.0004a25d	folder_config->profile_dir	.
+TOP.64638e9f.0004a25d	folder_config->session_dir	.
+TOP.64638e9f.0004a25d	folder_config->shared_dir	.
+TOP.64638e9f.0004a25d	user_options->custom_charset_1	?l?d?u
+TOP.64638e9f.0004a25d	user_options->custom_charset_2	?l?d
+TOP.64638e9f.0004a25d	user_options->custom_charset_3	?l?d*!$@_
+TOP.64638e9f.0004a25d	user_options->encoding_from	utf-8
+TOP.64638e9f.0004a25d	user_options->encoding_to	utf-8
+TOP.64638e9f.0004a25d	user_options->rule_buf_l	:
+TOP.64638e9f.0004a25d	user_options->rule_buf_r	:
+TOP.64638e9f.0004a25d	user_options->session	hashcat
+TOP.64638e9f.0004a25d	user_options->separator	:
+TOP.64638e9f.0004a25d	user_options->limit	0
+TOP.64638e9f.0004a25d	user_options->skip	0
+TOP.64638e9f.0004a25d	user_options->attack_mode	3
+TOP.64638e9f.0004a25d	user_options->benchmark	0
+TOP.64638e9f.0004a25d	user_options->benchmark_all	0
+TOP.64638e9f.0004a25d	user_options->bitmap_max	18
+TOP.64638e9f.0004a25d	user_options->bitmap_min	16
+TOP.64638e9f.0004a25d	user_options->debug_mode	0
+TOP.64638e9f.0004a25d	user_options->hash_info	0
+TOP.64638e9f.0004a25d	user_options->force	0
+TOP.64638e9f.0004a25d	user_options->hwmon_disable	0
+TOP.64638e9f.0004a25d	user_options->hwmon_temp_abort	90
+TOP.64638e9f.0004a25d	user_options->hash_mode	0
+TOP.64638e9f.0004a25d	user_options->hex_charset	0
+TOP.64638e9f.0004a25d	user_options->hex_salt	0
+TOP.64638e9f.0004a25d	user_options->hex_wordlist	0
+TOP.64638e9f.0004a25d	user_options->hook_threads	4
+TOP.64638e9f.0004a25d	user_options->identify	0
+TOP.64638e9f.0004a25d	user_options->increment	1
+TOP.64638e9f.0004a25d	user_options->increment_max	256
+TOP.64638e9f.0004a25d	user_options->increment_min	1
+TOP.64638e9f.0004a25d	user_options->keep_guessing	0
+TOP.64638e9f.0004a25d	user_options->kernel_accel	0
+TOP.64638e9f.0004a25d	user_options->kernel_loops	0
+TOP.64638e9f.0004a25d	user_options->kernel_threads	0
+TOP.64638e9f.0004a25d	user_options->keyspace	0
+TOP.64638e9f.0004a25d	user_options->left	0
+TOP.64638e9f.0004a25d	user_options->logfile_disable	0
+TOP.64638e9f.0004a25d	user_options->loopback	0
+TOP.64638e9f.0004a25d	user_options->machine_readable	0
+TOP.64638e9f.0004a25d	user_options->markov_classic	0
+TOP.64638e9f.0004a25d	user_options->markov_disable	0
+TOP.64638e9f.0004a25d	user_options->markov_inverse	0
+TOP.64638e9f.0004a25d	user_options->markov_threshold	256
+TOP.64638e9f.0004a25d	user_options->multiply_accel_disable	0
+TOP.64638e9f.0004a25d	user_options->backend_info	0
+TOP.64638e9f.0004a25d	user_options->backend_vector_width	0
+TOP.64638e9f.0004a25d	user_options->optimized_kernel_enable	0
+TOP.64638e9f.0004a25d	user_options->outfile_autohex	1
+TOP.64638e9f.0004a25d	user_options->outfile_check_timer	5
+TOP.64638e9f.0004a25d	user_options->outfile_format	3
+TOP.64638e9f.0004a25d	user_options->wordlist_autohex_disable	0
+TOP.64638e9f.0004a25d	user_options->potfile_disable	0
+TOP.64638e9f.0004a25d	user_options->progress_only	0
+TOP.64638e9f.0004a25d	user_options->quiet	0
+TOP.64638e9f.0004a25d	user_options->remove	0
+TOP.64638e9f.0004a25d	user_options->remove_timer	60
+TOP.64638e9f.0004a25d	user_options->restore	0
+TOP.64638e9f.0004a25d	user_options->restore_disable	0
+TOP.64638e9f.0004a25d	user_options->restore_timer	1
+TOP.64638e9f.0004a25d	user_options->rp_files_cnt	0
+TOP.64638e9f.0004a25d	user_options->rp_gen	0
+TOP.64638e9f.0004a25d	user_options->rp_gen_func_max	4
+TOP.64638e9f.0004a25d	user_options->rp_gen_func_min	1
+TOP.64638e9f.0004a25d	user_options->rp_gen_seed	0
+TOP.64638e9f.0004a25d	user_options->runtime	0
+TOP.64638e9f.0004a25d	user_options->scrypt_tmto	0
+TOP.64638e9f.0004a25d	user_options->segment_size	33554432
+TOP.64638e9f.0004a25d	user_options->self_test_disable	0
+TOP.64638e9f.0004a25d	user_options->slow_candidates	0
+TOP.64638e9f.0004a25d	user_options->show	0
+TOP.64638e9f.0004a25d	user_options->speed_only	0
+TOP.64638e9f.0004a25d	user_options->spin_damp	0
+TOP.64638e9f.0004a25d	user_options->status	0
+TOP.64638e9f.0004a25d	user_options->status_json	0
+TOP.64638e9f.0004a25d	user_options->status_timer	10
+TOP.64638e9f.0004a25d	user_options->stdout_flag	0
+TOP.64638e9f.0004a25d	user_options->usage	0
+TOP.64638e9f.0004a25d	user_options->username	0
+TOP.64638e9f.0004a25d	user_options->veracrypt_pim_start	485
+TOP.64638e9f.0004a25d	user_options->veracrypt_pim_stop	485
+TOP.64638e9f.0004a25d	user_options->version	0
+TOP.64638e9f.0004a25d	user_options->workload_profile	2
+TOP.64638e9f.0004a25d	user_options->brain_client	0
+TOP.64638e9f.0004a25d	user_options->brain_client_features	2
+TOP.64638e9f.0004a25d	user_options->brain_server	0
+TOP.64638e9f.0004a25d	user_options->brain_server_timer	300
+TOP.64638e9f.0004a25d	user_options->brain_port	6863
+TOP.64638e9f.0004a25d	user_options->brain_session	0
+TOP.64638e9f.0004a25d	hashes->hashfile	hashlist.txt
+TOP.64638e9f.0004a25d	hashes->hashlist_mode	5
+TOP.64638e9f.0004a25d	hashes->hashlist_format	0
+TOP.64638e9f.0004a25d	hashes->hashes_cnt	0
+TOP.64638e9f.0004a25d	hashes->digests_cnt	8
+TOP.64638e9f.0004a25d	hashes->digests_done_pot	7
+TOP.64638e9f.0004a25d	hashes->digests_done_zero	0
+TOP.64638e9f.0004a25d	hashes->digests_done	7
+TOP.64638e9f.0004a25d	hashes->salts_cnt	1
+TOP.64638e9f.0004a25d	hashes->salts_done	0
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	START
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	mask_ctx->mask	?1
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	runtime_start	1684246178
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	runtime_stop	1684246178
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea1.0005178f	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	START
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	mask_ctx->mask	?1?2
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	runtime_start	1684246179
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	runtime_stop	1684246179
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea2.0004eee3	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	START
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	mask_ctx->mask	?1?2?2
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	runtime_start	1684246179
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	runtime_stop	1684246179
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea3.00017090	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	START
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	mask_ctx->mask	?1?2?2?2
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	runtime_start	1684246180
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	runtime_stop	1684246180
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea3.000ed1df	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	START
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	mask_ctx->mask	?1?2?2?2?2
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	runtime_start	1684246181
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	runtime_stop	1684246181
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea4.000c6c14	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	START
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	runtime_start	1684246182
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	runtime_stop	1684246184
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	hashes->digests_done_new	0
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	status-after-work	5
+TOP.64638e9f.0004a25d	SUB.64638ea5.000d7f46	STOP
+TOP.64638e9f.0004a25d	SUB.64638ea8.0004cdbc	START
+TOP.64638e9f.0004a25d	SUB.64638ea8.0004cdbc	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64646cb9.0004b989	START
+TOP.64646cb9.0004b989	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64646cb9.0004b989	folder_config->install_dir	.
+TOP.64646cb9.0004b989	folder_config->profile_dir	.
+TOP.64646cb9.0004b989	folder_config->session_dir	.
+TOP.64646cb9.0004b989	folder_config->shared_dir	.
+TOP.64646cb9.0004b989	user_options->custom_charset_1	?l?d?u
+TOP.64646cb9.0004b989	user_options->custom_charset_2	?l?d
+TOP.64646cb9.0004b989	user_options->custom_charset_3	?l?d*!$@_
+TOP.64646cb9.0004b989	user_options->encoding_from	utf-8
+TOP.64646cb9.0004b989	user_options->encoding_to	utf-8
+TOP.64646cb9.0004b989	user_options->rule_buf_l	:
+TOP.64646cb9.0004b989	user_options->rule_buf_r	:
+TOP.64646cb9.0004b989	user_options->session	hashcat
+TOP.64646cb9.0004b989	user_options->separator	:
+TOP.64646cb9.0004b989	user_options->limit	0
+TOP.64646cb9.0004b989	user_options->skip	0
+TOP.64646cb9.0004b989	user_options->attack_mode	3
+TOP.64646cb9.0004b989	user_options->benchmark	0
+TOP.64646cb9.0004b989	user_options->benchmark_all	0
+TOP.64646cb9.0004b989	user_options->bitmap_max	18
+TOP.64646cb9.0004b989	user_options->bitmap_min	16
+TOP.64646cb9.0004b989	user_options->debug_mode	0
+TOP.64646cb9.0004b989	user_options->hash_info	0
+TOP.64646cb9.0004b989	user_options->force	0
+TOP.64646cb9.0004b989	user_options->hwmon_disable	0
+TOP.64646cb9.0004b989	user_options->hwmon_temp_abort	90
+TOP.64646cb9.0004b989	user_options->hash_mode	0
+TOP.64646cb9.0004b989	user_options->hex_charset	0
+TOP.64646cb9.0004b989	user_options->hex_salt	0
+TOP.64646cb9.0004b989	user_options->hex_wordlist	0
+TOP.64646cb9.0004b989	user_options->hook_threads	4
+TOP.64646cb9.0004b989	user_options->identify	0
+TOP.64646cb9.0004b989	user_options->increment	1
+TOP.64646cb9.0004b989	user_options->increment_max	256
+TOP.64646cb9.0004b989	user_options->increment_min	1
+TOP.64646cb9.0004b989	user_options->keep_guessing	0
+TOP.64646cb9.0004b989	user_options->kernel_accel	0
+TOP.64646cb9.0004b989	user_options->kernel_loops	0
+TOP.64646cb9.0004b989	user_options->kernel_threads	0
+TOP.64646cb9.0004b989	user_options->keyspace	0
+TOP.64646cb9.0004b989	user_options->left	0
+TOP.64646cb9.0004b989	user_options->logfile_disable	0
+TOP.64646cb9.0004b989	user_options->loopback	0
+TOP.64646cb9.0004b989	user_options->machine_readable	0
+TOP.64646cb9.0004b989	user_options->markov_classic	0
+TOP.64646cb9.0004b989	user_options->markov_disable	0
+TOP.64646cb9.0004b989	user_options->markov_inverse	0
+TOP.64646cb9.0004b989	user_options->markov_threshold	256
+TOP.64646cb9.0004b989	user_options->multiply_accel_disable	0
+TOP.64646cb9.0004b989	user_options->backend_info	0
+TOP.64646cb9.0004b989	user_options->backend_vector_width	0
+TOP.64646cb9.0004b989	user_options->optimized_kernel_enable	0
+TOP.64646cb9.0004b989	user_options->outfile_autohex	1
+TOP.64646cb9.0004b989	user_options->outfile_check_timer	5
+TOP.64646cb9.0004b989	user_options->outfile_format	3
+TOP.64646cb9.0004b989	user_options->wordlist_autohex_disable	0
+TOP.64646cb9.0004b989	user_options->potfile_disable	0
+TOP.64646cb9.0004b989	user_options->progress_only	0
+TOP.64646cb9.0004b989	user_options->quiet	0
+TOP.64646cb9.0004b989	user_options->remove	0
+TOP.64646cb9.0004b989	user_options->remove_timer	60
+TOP.64646cb9.0004b989	user_options->restore	0
+TOP.64646cb9.0004b989	user_options->restore_disable	0
+TOP.64646cb9.0004b989	user_options->restore_timer	1
+TOP.64646cb9.0004b989	user_options->rp_files_cnt	0
+TOP.64646cb9.0004b989	user_options->rp_gen	0
+TOP.64646cb9.0004b989	user_options->rp_gen_func_max	4
+TOP.64646cb9.0004b989	user_options->rp_gen_func_min	1
+TOP.64646cb9.0004b989	user_options->rp_gen_seed	0
+TOP.64646cb9.0004b989	user_options->runtime	0
+TOP.64646cb9.0004b989	user_options->scrypt_tmto	0
+TOP.64646cb9.0004b989	user_options->segment_size	33554432
+TOP.64646cb9.0004b989	user_options->self_test_disable	0
+TOP.64646cb9.0004b989	user_options->slow_candidates	0
+TOP.64646cb9.0004b989	user_options->show	0
+TOP.64646cb9.0004b989	user_options->speed_only	0
+TOP.64646cb9.0004b989	user_options->spin_damp	0
+TOP.64646cb9.0004b989	user_options->status	0
+TOP.64646cb9.0004b989	user_options->status_json	0
+TOP.64646cb9.0004b989	user_options->status_timer	10
+TOP.64646cb9.0004b989	user_options->stdout_flag	0
+TOP.64646cb9.0004b989	user_options->usage	0
+TOP.64646cb9.0004b989	user_options->username	0
+TOP.64646cb9.0004b989	user_options->veracrypt_pim_start	485
+TOP.64646cb9.0004b989	user_options->veracrypt_pim_stop	485
+TOP.64646cb9.0004b989	user_options->version	0
+TOP.64646cb9.0004b989	user_options->workload_profile	2
+TOP.64646cb9.0004b989	user_options->brain_client	0
+TOP.64646cb9.0004b989	user_options->brain_client_features	2
+TOP.64646cb9.0004b989	user_options->brain_server	0
+TOP.64646cb9.0004b989	user_options->brain_server_timer	300
+TOP.64646cb9.0004b989	user_options->brain_port	6863
+TOP.64646cb9.0004b989	user_options->brain_session	0
+TOP.64646cb9.0004b989	hashes->hashfile	hashlist.txt
+TOP.64646cb9.0004b989	hashes->hashlist_mode	5
+TOP.64646cb9.0004b989	hashes->hashlist_format	0
+TOP.64646cb9.0004b989	hashes->hashes_cnt	0
+TOP.64646cb9.0004b989	hashes->digests_cnt	1
+TOP.64646cb9.0004b989	hashes->digests_done_pot	0
+TOP.64646cb9.0004b989	hashes->digests_done_zero	0
+TOP.64646cb9.0004b989	hashes->digests_done	0
+TOP.64646cb9.0004b989	hashes->salts_cnt	1
+TOP.64646cb9.0004b989	hashes->salts_done	0
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	START
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	mask_ctx->mask	?1
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	runtime_start	1684303037
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	runtime_stop	1684303037
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	hashes->digests_done_new	0
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	status-after-work	5
+TOP.64646cb9.0004b989	SUB.64646cbb.0006c677	STOP
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	START
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	mask_ctx->mask	?1?2
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	runtime_start	1684303039
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	runtime_stop	1684303039
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	hashes->digests_done_new	0
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	status-after-work	5
+TOP.64646cb9.0004b989	SUB.64646cbd.000bba9d	STOP
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	START
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	mask_ctx->mask	?1?2?2
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	runtime_start	1684303040
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	runtime_stop	1684303040
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	hashes->digests_done_new	0
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	status-after-work	5
+TOP.64646cb9.0004b989	SUB.64646cbf.00094446	STOP
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	START
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	mask_ctx->mask	?1?2?2?2
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	runtime_start	1684303041
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	runtime_stop	1684303041
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	hashes->digests_done_new	1
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	status-after-work	6
+TOP.64646cb9.0004b989	SUB.64646cc1.0000776c	STOP
+TOP.64646cb9.0004b989	proc_start	1684303033
+TOP.64646cb9.0004b989	proc_stop	1684303043
+TOP.64646cb9.0004b989	STOP
+TOP.64646d43.000037b1	START
+TOP.64646d43.000037b1	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64646d43.000037b1	folder_config->install_dir	.
+TOP.64646d43.000037b1	folder_config->profile_dir	.
+TOP.64646d43.000037b1	folder_config->session_dir	.
+TOP.64646d43.000037b1	folder_config->shared_dir	.
+TOP.64646d43.000037b1	user_options->custom_charset_1	?l?d?u
+TOP.64646d43.000037b1	user_options->custom_charset_2	?l?d
+TOP.64646d43.000037b1	user_options->custom_charset_3	?l?d*!$@_
+TOP.64646d43.000037b1	user_options->encoding_from	utf-8
+TOP.64646d43.000037b1	user_options->encoding_to	utf-8
+TOP.64646d43.000037b1	user_options->rule_buf_l	:
+TOP.64646d43.000037b1	user_options->rule_buf_r	:
+TOP.64646d43.000037b1	user_options->session	hashcat
+TOP.64646d43.000037b1	user_options->separator	:
+TOP.64646d43.000037b1	user_options->limit	0
+TOP.64646d43.000037b1	user_options->skip	0
+TOP.64646d43.000037b1	user_options->attack_mode	3
+TOP.64646d43.000037b1	user_options->benchmark	0
+TOP.64646d43.000037b1	user_options->benchmark_all	0
+TOP.64646d43.000037b1	user_options->bitmap_max	18
+TOP.64646d43.000037b1	user_options->bitmap_min	16
+TOP.64646d43.000037b1	user_options->debug_mode	0
+TOP.64646d43.000037b1	user_options->hash_info	0
+TOP.64646d43.000037b1	user_options->force	0
+TOP.64646d43.000037b1	user_options->hwmon_disable	0
+TOP.64646d43.000037b1	user_options->hwmon_temp_abort	90
+TOP.64646d43.000037b1	user_options->hash_mode	0
+TOP.64646d43.000037b1	user_options->hex_charset	0
+TOP.64646d43.000037b1	user_options->hex_salt	0
+TOP.64646d43.000037b1	user_options->hex_wordlist	0
+TOP.64646d43.000037b1	user_options->hook_threads	4
+TOP.64646d43.000037b1	user_options->identify	0
+TOP.64646d43.000037b1	user_options->increment	1
+TOP.64646d43.000037b1	user_options->increment_max	256
+TOP.64646d43.000037b1	user_options->increment_min	1
+TOP.64646d43.000037b1	user_options->keep_guessing	0
+TOP.64646d43.000037b1	user_options->kernel_accel	0
+TOP.64646d43.000037b1	user_options->kernel_loops	0
+TOP.64646d43.000037b1	user_options->kernel_threads	0
+TOP.64646d43.000037b1	user_options->keyspace	0
+TOP.64646d43.000037b1	user_options->left	0
+TOP.64646d43.000037b1	user_options->logfile_disable	0
+TOP.64646d43.000037b1	user_options->loopback	0
+TOP.64646d43.000037b1	user_options->machine_readable	0
+TOP.64646d43.000037b1	user_options->markov_classic	0
+TOP.64646d43.000037b1	user_options->markov_disable	0
+TOP.64646d43.000037b1	user_options->markov_inverse	0
+TOP.64646d43.000037b1	user_options->markov_threshold	256
+TOP.64646d43.000037b1	user_options->multiply_accel_disable	0
+TOP.64646d43.000037b1	user_options->backend_info	0
+TOP.64646d43.000037b1	user_options->backend_vector_width	0
+TOP.64646d43.000037b1	user_options->optimized_kernel_enable	0
+TOP.64646d43.000037b1	user_options->outfile_autohex	1
+TOP.64646d43.000037b1	user_options->outfile_check_timer	5
+TOP.64646d43.000037b1	user_options->outfile_format	3
+TOP.64646d43.000037b1	user_options->wordlist_autohex_disable	0
+TOP.64646d43.000037b1	user_options->potfile_disable	0
+TOP.64646d43.000037b1	user_options->progress_only	0
+TOP.64646d43.000037b1	user_options->quiet	0
+TOP.64646d43.000037b1	user_options->remove	0
+TOP.64646d43.000037b1	user_options->remove_timer	60
+TOP.64646d43.000037b1	user_options->restore	0
+TOP.64646d43.000037b1	user_options->restore_disable	0
+TOP.64646d43.000037b1	user_options->restore_timer	1
+TOP.64646d43.000037b1	user_options->rp_files_cnt	0
+TOP.64646d43.000037b1	user_options->rp_gen	0
+TOP.64646d43.000037b1	user_options->rp_gen_func_max	4
+TOP.64646d43.000037b1	user_options->rp_gen_func_min	1
+TOP.64646d43.000037b1	user_options->rp_gen_seed	0
+TOP.64646d43.000037b1	user_options->runtime	0
+TOP.64646d43.000037b1	user_options->scrypt_tmto	0
+TOP.64646d43.000037b1	user_options->segment_size	33554432
+TOP.64646d43.000037b1	user_options->self_test_disable	0
+TOP.64646d43.000037b1	user_options->slow_candidates	0
+TOP.64646d43.000037b1	user_options->show	0
+TOP.64646d43.000037b1	user_options->speed_only	0
+TOP.64646d43.000037b1	user_options->spin_damp	0
+TOP.64646d43.000037b1	user_options->status	0
+TOP.64646d43.000037b1	user_options->status_json	0
+TOP.64646d43.000037b1	user_options->status_timer	10
+TOP.64646d43.000037b1	user_options->stdout_flag	0
+TOP.64646d43.000037b1	user_options->usage	0
+TOP.64646d43.000037b1	user_options->username	0
+TOP.64646d43.000037b1	user_options->veracrypt_pim_start	485
+TOP.64646d43.000037b1	user_options->veracrypt_pim_stop	485
+TOP.64646d43.000037b1	user_options->version	0
+TOP.64646d43.000037b1	user_options->workload_profile	2
+TOP.64646d43.000037b1	user_options->brain_client	0
+TOP.64646d43.000037b1	user_options->brain_client_features	2
+TOP.64646d43.000037b1	user_options->brain_server	0
+TOP.64646d43.000037b1	user_options->brain_server_timer	300
+TOP.64646d43.000037b1	user_options->brain_port	6863
+TOP.64646d43.000037b1	user_options->brain_session	0
+TOP.64646d43.000037b1	hashes->hashfile	hashlist.txt
+TOP.64646d43.000037b1	hashes->hashlist_mode	5
+TOP.64646d43.000037b1	hashes->hashlist_format	0
+TOP.64646d43.000037b1	hashes->hashes_cnt	0
+TOP.64646d43.000037b1	hashes->digests_cnt	1
+TOP.64646d43.000037b1	hashes->digests_done_pot	0
+TOP.64646d43.000037b1	hashes->digests_done_zero	0
+TOP.64646d43.000037b1	hashes->digests_done	0
+TOP.64646d43.000037b1	hashes->salts_cnt	1
+TOP.64646d43.000037b1	hashes->salts_done	0
+TOP.64646d43.000037b1	SUB.64646d44.000758da	START
+TOP.64646d43.000037b1	SUB.64646d44.000758da	mask_ctx->mask	?1
+TOP.64646d43.000037b1	SUB.64646d44.000758da	runtime_start	1684303174
+TOP.64646d43.000037b1	SUB.64646d44.000758da	runtime_stop	1684303174
+TOP.64646d43.000037b1	SUB.64646d44.000758da	hashes->digests_done_new	0
+TOP.64646d43.000037b1	SUB.64646d44.000758da	status-after-work	5
+TOP.64646d43.000037b1	SUB.64646d44.000758da	STOP
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	START
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	mask_ctx->mask	?1?2
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	runtime_start	1684303175
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	runtime_stop	1684303175
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	hashes->digests_done_new	0
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	status-after-work	5
+TOP.64646d43.000037b1	SUB.64646d46.00020d1a	STOP
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	START
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	mask_ctx->mask	?1?2?2
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	runtime_start	1684303175
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	runtime_stop	1684303175
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	hashes->digests_done_new	0
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	status-after-work	5
+TOP.64646d43.000037b1	SUB.64646d47.00031c07	STOP
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	START
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	mask_ctx->mask	?1?2?2?2
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	runtime_start	1684303176
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	runtime_stop	1684303176
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	hashes->digests_done_new	1
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	status-after-work	6
+TOP.64646d43.000037b1	SUB.64646d47.000d42f8	STOP
+TOP.64646d43.000037b1	proc_start	1684303171
+TOP.64646d43.000037b1	proc_stop	1684303178
+TOP.64646d43.000037b1	STOP
+TOP.64646d7b.000f17ab	START
+TOP.64646d7b.000f17ab	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64646d7b.000f17ab	folder_config->install_dir	.
+TOP.64646d7b.000f17ab	folder_config->profile_dir	.
+TOP.64646d7b.000f17ab	folder_config->session_dir	.
+TOP.64646d7b.000f17ab	folder_config->shared_dir	.
+TOP.64646d7b.000f17ab	user_options->custom_charset_1	?l?d?u
+TOP.64646d7b.000f17ab	user_options->custom_charset_2	?l?d
+TOP.64646d7b.000f17ab	user_options->custom_charset_3	?l?d*!$@_
+TOP.64646d7b.000f17ab	user_options->encoding_from	utf-8
+TOP.64646d7b.000f17ab	user_options->encoding_to	utf-8
+TOP.64646d7b.000f17ab	user_options->rule_buf_l	:
+TOP.64646d7b.000f17ab	user_options->rule_buf_r	:
+TOP.64646d7b.000f17ab	user_options->session	hashcat
+TOP.64646d7b.000f17ab	user_options->separator	:
+TOP.64646d7b.000f17ab	user_options->limit	0
+TOP.64646d7b.000f17ab	user_options->skip	0
+TOP.64646d7b.000f17ab	user_options->attack_mode	3
+TOP.64646d7b.000f17ab	user_options->benchmark	0
+TOP.64646d7b.000f17ab	user_options->benchmark_all	0
+TOP.64646d7b.000f17ab	user_options->bitmap_max	18
+TOP.64646d7b.000f17ab	user_options->bitmap_min	16
+TOP.64646d7b.000f17ab	user_options->debug_mode	0
+TOP.64646d7b.000f17ab	user_options->hash_info	0
+TOP.64646d7b.000f17ab	user_options->force	0
+TOP.64646d7b.000f17ab	user_options->hwmon_disable	0
+TOP.64646d7b.000f17ab	user_options->hwmon_temp_abort	90
+TOP.64646d7b.000f17ab	user_options->hash_mode	0
+TOP.64646d7b.000f17ab	user_options->hex_charset	0
+TOP.64646d7b.000f17ab	user_options->hex_salt	0
+TOP.64646d7b.000f17ab	user_options->hex_wordlist	0
+TOP.64646d7b.000f17ab	user_options->hook_threads	4
+TOP.64646d7b.000f17ab	user_options->identify	0
+TOP.64646d7b.000f17ab	user_options->increment	1
+TOP.64646d7b.000f17ab	user_options->increment_max	256
+TOP.64646d7b.000f17ab	user_options->increment_min	1
+TOP.64646d7b.000f17ab	user_options->keep_guessing	0
+TOP.64646d7b.000f17ab	user_options->kernel_accel	0
+TOP.64646d7b.000f17ab	user_options->kernel_loops	0
+TOP.64646d7b.000f17ab	user_options->kernel_threads	0
+TOP.64646d7b.000f17ab	user_options->keyspace	0
+TOP.64646d7b.000f17ab	user_options->left	0
+TOP.64646d7b.000f17ab	user_options->logfile_disable	0
+TOP.64646d7b.000f17ab	user_options->loopback	0
+TOP.64646d7b.000f17ab	user_options->machine_readable	0
+TOP.64646d7b.000f17ab	user_options->markov_classic	0
+TOP.64646d7b.000f17ab	user_options->markov_disable	0
+TOP.64646d7b.000f17ab	user_options->markov_inverse	0
+TOP.64646d7b.000f17ab	user_options->markov_threshold	256
+TOP.64646d7b.000f17ab	user_options->multiply_accel_disable	0
+TOP.64646d7b.000f17ab	user_options->backend_info	0
+TOP.64646d7b.000f17ab	user_options->backend_vector_width	0
+TOP.64646d7b.000f17ab	user_options->optimized_kernel_enable	0
+TOP.64646d7b.000f17ab	user_options->outfile_autohex	1
+TOP.64646d7b.000f17ab	user_options->outfile_check_timer	5
+TOP.64646d7b.000f17ab	user_options->outfile_format	3
+TOP.64646d7b.000f17ab	user_options->wordlist_autohex_disable	0
+TOP.64646d7b.000f17ab	user_options->potfile_disable	0
+TOP.64646d7b.000f17ab	user_options->progress_only	0
+TOP.64646d7b.000f17ab	user_options->quiet	0
+TOP.64646d7b.000f17ab	user_options->remove	0
+TOP.64646d7b.000f17ab	user_options->remove_timer	60
+TOP.64646d7b.000f17ab	user_options->restore	0
+TOP.64646d7b.000f17ab	user_options->restore_disable	0
+TOP.64646d7b.000f17ab	user_options->restore_timer	1
+TOP.64646d7b.000f17ab	user_options->rp_files_cnt	0
+TOP.64646d7b.000f17ab	user_options->rp_gen	0
+TOP.64646d7b.000f17ab	user_options->rp_gen_func_max	4
+TOP.64646d7b.000f17ab	user_options->rp_gen_func_min	1
+TOP.64646d7b.000f17ab	user_options->rp_gen_seed	0
+TOP.64646d7b.000f17ab	user_options->runtime	0
+TOP.64646d7b.000f17ab	user_options->scrypt_tmto	0
+TOP.64646d7b.000f17ab	user_options->segment_size	33554432
+TOP.64646d7b.000f17ab	user_options->self_test_disable	0
+TOP.64646d7b.000f17ab	user_options->slow_candidates	0
+TOP.64646d7b.000f17ab	user_options->show	0
+TOP.64646d7b.000f17ab	user_options->speed_only	0
+TOP.64646d7b.000f17ab	user_options->spin_damp	0
+TOP.64646d7b.000f17ab	user_options->status	0
+TOP.64646d7b.000f17ab	user_options->status_json	0
+TOP.64646d7b.000f17ab	user_options->status_timer	10
+TOP.64646d7b.000f17ab	user_options->stdout_flag	0
+TOP.64646d7b.000f17ab	user_options->usage	0
+TOP.64646d7b.000f17ab	user_options->username	0
+TOP.64646d7b.000f17ab	user_options->veracrypt_pim_start	485
+TOP.64646d7b.000f17ab	user_options->veracrypt_pim_stop	485
+TOP.64646d7b.000f17ab	user_options->version	0
+TOP.64646d7b.000f17ab	user_options->workload_profile	2
+TOP.64646d7b.000f17ab	user_options->brain_client	0
+TOP.64646d7b.000f17ab	user_options->brain_client_features	2
+TOP.64646d7b.000f17ab	user_options->brain_server	0
+TOP.64646d7b.000f17ab	user_options->brain_server_timer	300
+TOP.64646d7b.000f17ab	user_options->brain_port	6863
+TOP.64646d7b.000f17ab	user_options->brain_session	0
+TOP.64646d7b.000f17ab	hashes->hashfile	hashlist.txt
+TOP.64646d7b.000f17ab	hashes->hashlist_mode	5
+TOP.64646d7b.000f17ab	hashes->hashlist_format	0
+TOP.64646d7b.000f17ab	hashes->hashes_cnt	0
+TOP.64646d7b.000f17ab	hashes->digests_cnt	2
+TOP.64646d7b.000f17ab	hashes->digests_done_pot	1
+TOP.64646d7b.000f17ab	hashes->digests_done_zero	0
+TOP.64646d7b.000f17ab	hashes->digests_done	1
+TOP.64646d7b.000f17ab	hashes->salts_cnt	1
+TOP.64646d7b.000f17ab	hashes->salts_done	0
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	START
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	mask_ctx->mask	?1
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	runtime_start	1684303230
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	runtime_stop	1684303230
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d7d.00091f73	STOP
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	START
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	mask_ctx->mask	?1?2
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	runtime_start	1684303231
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	runtime_stop	1684303232
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d7e.000d0f12	STOP
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	START
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	mask_ctx->mask	?1?2?2
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	runtime_start	1684303232
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	runtime_stop	1684303232
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d80.0000ea18	STOP
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	START
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	mask_ctx->mask	?1?2?2?2
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	runtime_start	1684303233
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	runtime_stop	1684303233
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d80.000b0639	STOP
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	START
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	mask_ctx->mask	?1?2?2?2?2
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	runtime_start	1684303233
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	runtime_stop	1684303233
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d81.00050a30	STOP
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	START
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	mask_ctx->mask	?1?2?2?2?2?2
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	runtime_start	1684303234
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	runtime_stop	1684303235
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	status-after-work	5
+TOP.64646d7b.000f17ab	SUB.64646d82.00000996	STOP
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	START
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	runtime_start	1684303236
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	runtime_stop	1684303262
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	hashes->digests_done_new	0
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	status-after-work	8
+TOP.64646d7b.000f17ab	SUB.64646d83.0008b19d	STOP
+TOP.64646d7b.000f17ab	proc_start	1684303227
+TOP.64646d7b.000f17ab	proc_stop	1684303264
+TOP.64646d7b.000f17ab	STOP
+TOP.646471ee.00015e90	START
+TOP.646471ee.00015e90	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.646471ee.00015e90	folder_config->install_dir	.
+TOP.646471ee.00015e90	folder_config->profile_dir	.
+TOP.646471ee.00015e90	folder_config->session_dir	.
+TOP.646471ee.00015e90	folder_config->shared_dir	.
+TOP.646471ee.00015e90	user_options->custom_charset_1	?l?d?u
+TOP.646471ee.00015e90	user_options->custom_charset_2	?l?d
+TOP.646471ee.00015e90	user_options->custom_charset_3	?l?d*!$@_
+TOP.646471ee.00015e90	user_options->encoding_from	utf-8
+TOP.646471ee.00015e90	user_options->encoding_to	utf-8
+TOP.646471ee.00015e90	user_options->rule_buf_l	:
+TOP.646471ee.00015e90	user_options->rule_buf_r	:
+TOP.646471ee.00015e90	user_options->session	hashcat
+TOP.646471ee.00015e90	user_options->separator	:
+TOP.646471ee.00015e90	user_options->limit	0
+TOP.646471ee.00015e90	user_options->skip	0
+TOP.646471ee.00015e90	user_options->attack_mode	3
+TOP.646471ee.00015e90	user_options->benchmark	0
+TOP.646471ee.00015e90	user_options->benchmark_all	0
+TOP.646471ee.00015e90	user_options->bitmap_max	18
+TOP.646471ee.00015e90	user_options->bitmap_min	16
+TOP.646471ee.00015e90	user_options->debug_mode	0
+TOP.646471ee.00015e90	user_options->hash_info	0
+TOP.646471ee.00015e90	user_options->force	0
+TOP.646471ee.00015e90	user_options->hwmon_disable	0
+TOP.646471ee.00015e90	user_options->hwmon_temp_abort	90
+TOP.646471ee.00015e90	user_options->hash_mode	0
+TOP.646471ee.00015e90	user_options->hex_charset	0
+TOP.646471ee.00015e90	user_options->hex_salt	0
+TOP.646471ee.00015e90	user_options->hex_wordlist	0
+TOP.646471ee.00015e90	user_options->hook_threads	4
+TOP.646471ee.00015e90	user_options->identify	0
+TOP.646471ee.00015e90	user_options->increment	1
+TOP.646471ee.00015e90	user_options->increment_max	256
+TOP.646471ee.00015e90	user_options->increment_min	1
+TOP.646471ee.00015e90	user_options->keep_guessing	0
+TOP.646471ee.00015e90	user_options->kernel_accel	0
+TOP.646471ee.00015e90	user_options->kernel_loops	0
+TOP.646471ee.00015e90	user_options->kernel_threads	0
+TOP.646471ee.00015e90	user_options->keyspace	0
+TOP.646471ee.00015e90	user_options->left	0
+TOP.646471ee.00015e90	user_options->logfile_disable	0
+TOP.646471ee.00015e90	user_options->loopback	0
+TOP.646471ee.00015e90	user_options->machine_readable	0
+TOP.646471ee.00015e90	user_options->markov_classic	0
+TOP.646471ee.00015e90	user_options->markov_disable	0
+TOP.646471ee.00015e90	user_options->markov_inverse	0
+TOP.646471ee.00015e90	user_options->markov_threshold	256
+TOP.646471ee.00015e90	user_options->multiply_accel_disable	0
+TOP.646471ee.00015e90	user_options->backend_info	0
+TOP.646471ee.00015e90	user_options->backend_vector_width	0
+TOP.646471ee.00015e90	user_options->optimized_kernel_enable	0
+TOP.646471ee.00015e90	user_options->outfile_autohex	1
+TOP.646471ee.00015e90	user_options->outfile_check_timer	5
+TOP.646471ee.00015e90	user_options->outfile_format	3
+TOP.646471ee.00015e90	user_options->wordlist_autohex_disable	0
+TOP.646471ee.00015e90	user_options->potfile_disable	0
+TOP.646471ee.00015e90	user_options->progress_only	0
+TOP.646471ee.00015e90	user_options->quiet	0
+TOP.646471ee.00015e90	user_options->remove	0
+TOP.646471ee.00015e90	user_options->remove_timer	60
+TOP.646471ee.00015e90	user_options->restore	0
+TOP.646471ee.00015e90	user_options->restore_disable	0
+TOP.646471ee.00015e90	user_options->restore_timer	1
+TOP.646471ee.00015e90	user_options->rp_files_cnt	0
+TOP.646471ee.00015e90	user_options->rp_gen	0
+TOP.646471ee.00015e90	user_options->rp_gen_func_max	4
+TOP.646471ee.00015e90	user_options->rp_gen_func_min	1
+TOP.646471ee.00015e90	user_options->rp_gen_seed	0
+TOP.646471ee.00015e90	user_options->runtime	0
+TOP.646471ee.00015e90	user_options->scrypt_tmto	0
+TOP.646471ee.00015e90	user_options->segment_size	33554432
+TOP.646471ee.00015e90	user_options->self_test_disable	0
+TOP.646471ee.00015e90	user_options->slow_candidates	0
+TOP.646471ee.00015e90	user_options->show	0
+TOP.646471ee.00015e90	user_options->speed_only	0
+TOP.646471ee.00015e90	user_options->spin_damp	0
+TOP.646471ee.00015e90	user_options->status	0
+TOP.646471ee.00015e90	user_options->status_json	0
+TOP.646471ee.00015e90	user_options->status_timer	10
+TOP.646471ee.00015e90	user_options->stdout_flag	0
+TOP.646471ee.00015e90	user_options->usage	0
+TOP.646471ee.00015e90	user_options->username	0
+TOP.646471ee.00015e90	user_options->veracrypt_pim_start	485
+TOP.646471ee.00015e90	user_options->veracrypt_pim_stop	485
+TOP.646471ee.00015e90	user_options->version	0
+TOP.646471ee.00015e90	user_options->workload_profile	2
+TOP.646471ee.00015e90	user_options->brain_client	0
+TOP.646471ee.00015e90	user_options->brain_client_features	2
+TOP.646471ee.00015e90	user_options->brain_server	0
+TOP.646471ee.00015e90	user_options->brain_server_timer	300
+TOP.646471ee.00015e90	user_options->brain_port	6863
+TOP.646471ee.00015e90	user_options->brain_session	0
+TOP.646471ee.00015e90	hashes->hashfile	hashlist.txt
+TOP.646471ee.00015e90	hashes->hashlist_mode	5
+TOP.646471ee.00015e90	hashes->hashlist_format	0
+TOP.646471ee.00015e90	hashes->hashes_cnt	0
+TOP.646471ee.00015e90	hashes->digests_cnt	2
+TOP.646471ee.00015e90	hashes->digests_done_pot	1
+TOP.646471ee.00015e90	hashes->digests_done_zero	0
+TOP.646471ee.00015e90	hashes->digests_done	1
+TOP.646471ee.00015e90	hashes->salts_cnt	1
+TOP.646471ee.00015e90	hashes->salts_done	0
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	START
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	mask_ctx->mask	?1
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	runtime_start	1684304369
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	runtime_stop	1684304370
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471ef.000d4129	STOP
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	START
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	mask_ctx->mask	?1?2
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	runtime_start	1684304370
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	runtime_stop	1684304370
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471f2.000108ca	STOP
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	START
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	mask_ctx->mask	?1?2?2
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	runtime_start	1684304371
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	runtime_stop	1684304371
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471f2.000b4ccf	STOP
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	START
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	mask_ctx->mask	?1?2?2?2
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	runtime_start	1684304372
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	runtime_stop	1684304372
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471f3.0006756b	STOP
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	START
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	mask_ctx->mask	?1?2?2?2?2
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	runtime_start	1684304372
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	runtime_stop	1684304372
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471f4.000193bf	STOP
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	START
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	mask_ctx->mask	?1?2?2?2?2?2
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	runtime_start	1684304373
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	runtime_stop	1684304374
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	status-after-work	5
+TOP.646471ee.00015e90	SUB.646471f4.000cfd10	STOP
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	START
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	mask_ctx->mask	?1?2?2?2?2?2?2
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	runtime_start	1684304375
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	runtime_stop	1684304394
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	hashes->digests_done_new	0
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	status-after-work	8
+TOP.646471ee.00015e90	SUB.646471f6.000622f5	STOP
+TOP.646471ee.00015e90	proc_start	1684304366
+TOP.646471ee.00015e90	proc_stop	1684304395
+TOP.646471ee.00015e90	STOP
+TOP.646472a3.000b603c	START
+TOP.646472a3.000b603c	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.646472a3.000b603c	folder_config->install_dir	.
+TOP.646472a3.000b603c	folder_config->profile_dir	.
+TOP.646472a3.000b603c	folder_config->session_dir	.
+TOP.646472a3.000b603c	folder_config->shared_dir	.
+TOP.646472a3.000b603c	user_options->custom_charset_1	?l?d?u
+TOP.646472a3.000b603c	user_options->custom_charset_2	?l?d
+TOP.646472a3.000b603c	user_options->custom_charset_3	?l?d*!$@_
+TOP.646472a3.000b603c	user_options->encoding_from	utf-8
+TOP.646472a3.000b603c	user_options->encoding_to	utf-8
+TOP.646472a3.000b603c	user_options->rule_buf_l	:
+TOP.646472a3.000b603c	user_options->rule_buf_r	:
+TOP.646472a3.000b603c	user_options->session	hashcat
+TOP.646472a3.000b603c	user_options->separator	:
+TOP.646472a3.000b603c	user_options->limit	0
+TOP.646472a3.000b603c	user_options->skip	0
+TOP.646472a3.000b603c	user_options->attack_mode	3
+TOP.646472a3.000b603c	user_options->benchmark	0
+TOP.646472a3.000b603c	user_options->benchmark_all	0
+TOP.646472a3.000b603c	user_options->bitmap_max	18
+TOP.646472a3.000b603c	user_options->bitmap_min	16
+TOP.646472a3.000b603c	user_options->debug_mode	0
+TOP.646472a3.000b603c	user_options->hash_info	0
+TOP.646472a3.000b603c	user_options->force	0
+TOP.646472a3.000b603c	user_options->hwmon_disable	0
+TOP.646472a3.000b603c	user_options->hwmon_temp_abort	90
+TOP.646472a3.000b603c	user_options->hash_mode	0
+TOP.646472a3.000b603c	user_options->hex_charset	0
+TOP.646472a3.000b603c	user_options->hex_salt	0
+TOP.646472a3.000b603c	user_options->hex_wordlist	0
+TOP.646472a3.000b603c	user_options->hook_threads	4
+TOP.646472a3.000b603c	user_options->identify	0
+TOP.646472a3.000b603c	user_options->increment	1
+TOP.646472a3.000b603c	user_options->increment_max	256
+TOP.646472a3.000b603c	user_options->increment_min	1
+TOP.646472a3.000b603c	user_options->keep_guessing	0
+TOP.646472a3.000b603c	user_options->kernel_accel	0
+TOP.646472a3.000b603c	user_options->kernel_loops	0
+TOP.646472a3.000b603c	user_options->kernel_threads	0
+TOP.646472a3.000b603c	user_options->keyspace	0
+TOP.646472a3.000b603c	user_options->left	0
+TOP.646472a3.000b603c	user_options->logfile_disable	0
+TOP.646472a3.000b603c	user_options->loopback	0
+TOP.646472a3.000b603c	user_options->machine_readable	0
+TOP.646472a3.000b603c	user_options->markov_classic	0
+TOP.646472a3.000b603c	user_options->markov_disable	0
+TOP.646472a3.000b603c	user_options->markov_inverse	0
+TOP.646472a3.000b603c	user_options->markov_threshold	256
+TOP.646472a3.000b603c	user_options->multiply_accel_disable	0
+TOP.646472a3.000b603c	user_options->backend_info	0
+TOP.646472a3.000b603c	user_options->backend_vector_width	0
+TOP.646472a3.000b603c	user_options->optimized_kernel_enable	0
+TOP.646472a3.000b603c	user_options->outfile_autohex	1
+TOP.646472a3.000b603c	user_options->outfile_check_timer	5
+TOP.646472a3.000b603c	user_options->outfile_format	3
+TOP.646472a3.000b603c	user_options->wordlist_autohex_disable	0
+TOP.646472a3.000b603c	user_options->potfile_disable	0
+TOP.646472a3.000b603c	user_options->progress_only	0
+TOP.646472a3.000b603c	user_options->quiet	0
+TOP.646472a3.000b603c	user_options->remove	0
+TOP.646472a3.000b603c	user_options->remove_timer	60
+TOP.646472a3.000b603c	user_options->restore	0
+TOP.646472a3.000b603c	user_options->restore_disable	0
+TOP.646472a3.000b603c	user_options->restore_timer	1
+TOP.646472a3.000b603c	user_options->rp_files_cnt	0
+TOP.646472a3.000b603c	user_options->rp_gen	0
+TOP.646472a3.000b603c	user_options->rp_gen_func_max	4
+TOP.646472a3.000b603c	user_options->rp_gen_func_min	1
+TOP.646472a3.000b603c	user_options->rp_gen_seed	0
+TOP.646472a3.000b603c	user_options->runtime	0
+TOP.646472a3.000b603c	user_options->scrypt_tmto	0
+TOP.646472a3.000b603c	user_options->segment_size	33554432
+TOP.646472a3.000b603c	user_options->self_test_disable	0
+TOP.646472a3.000b603c	user_options->slow_candidates	0
+TOP.646472a3.000b603c	user_options->show	0
+TOP.646472a3.000b603c	user_options->speed_only	0
+TOP.646472a3.000b603c	user_options->spin_damp	0
+TOP.646472a3.000b603c	user_options->status	0
+TOP.646472a3.000b603c	user_options->status_json	0
+TOP.646472a3.000b603c	user_options->status_timer	10
+TOP.646472a3.000b603c	user_options->stdout_flag	0
+TOP.646472a3.000b603c	user_options->usage	0
+TOP.646472a3.000b603c	user_options->username	0
+TOP.646472a3.000b603c	user_options->veracrypt_pim_start	485
+TOP.646472a3.000b603c	user_options->veracrypt_pim_stop	485
+TOP.646472a3.000b603c	user_options->version	0
+TOP.646472a3.000b603c	user_options->workload_profile	2
+TOP.646472a3.000b603c	user_options->brain_client	0
+TOP.646472a3.000b603c	user_options->brain_client_features	2
+TOP.646472a3.000b603c	user_options->brain_server	0
+TOP.646472a3.000b603c	user_options->brain_server_timer	300
+TOP.646472a3.000b603c	user_options->brain_port	6863
+TOP.646472a3.000b603c	user_options->brain_session	0
+TOP.646472a3.000b603c	proc_start	1684304547
+TOP.646472a3.000b603c	proc_stop	1684304548
+TOP.646472a3.000b603c	STOP
+TOP.6464731a.0009d3d8	START
+TOP.6464731a.0009d3d8	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.6464731a.0009d3d8	folder_config->install_dir	.
+TOP.6464731a.0009d3d8	folder_config->profile_dir	.
+TOP.6464731a.0009d3d8	folder_config->session_dir	.
+TOP.6464731a.0009d3d8	folder_config->shared_dir	.
+TOP.6464731a.0009d3d8	user_options->custom_charset_1	?l?d?u
+TOP.6464731a.0009d3d8	user_options->custom_charset_2	?l?d
+TOP.6464731a.0009d3d8	user_options->custom_charset_3	?l?d*!$@_
+TOP.6464731a.0009d3d8	user_options->encoding_from	utf-8
+TOP.6464731a.0009d3d8	user_options->encoding_to	utf-8
+TOP.6464731a.0009d3d8	user_options->rule_buf_l	:
+TOP.6464731a.0009d3d8	user_options->rule_buf_r	:
+TOP.6464731a.0009d3d8	user_options->session	hashcat
+TOP.6464731a.0009d3d8	user_options->separator	:
+TOP.6464731a.0009d3d8	user_options->limit	0
+TOP.6464731a.0009d3d8	user_options->skip	0
+TOP.6464731a.0009d3d8	user_options->attack_mode	3
+TOP.6464731a.0009d3d8	user_options->benchmark	0
+TOP.6464731a.0009d3d8	user_options->benchmark_all	0
+TOP.6464731a.0009d3d8	user_options->bitmap_max	18
+TOP.6464731a.0009d3d8	user_options->bitmap_min	16
+TOP.6464731a.0009d3d8	user_options->debug_mode	0
+TOP.6464731a.0009d3d8	user_options->hash_info	0
+TOP.6464731a.0009d3d8	user_options->force	0
+TOP.6464731a.0009d3d8	user_options->hwmon_disable	0
+TOP.6464731a.0009d3d8	user_options->hwmon_temp_abort	90
+TOP.6464731a.0009d3d8	user_options->hash_mode	0
+TOP.6464731a.0009d3d8	user_options->hex_charset	0
+TOP.6464731a.0009d3d8	user_options->hex_salt	0
+TOP.6464731a.0009d3d8	user_options->hex_wordlist	0
+TOP.6464731a.0009d3d8	user_options->hook_threads	4
+TOP.6464731a.0009d3d8	user_options->identify	0
+TOP.6464731a.0009d3d8	user_options->increment	1
+TOP.6464731a.0009d3d8	user_options->increment_max	256
+TOP.6464731a.0009d3d8	user_options->increment_min	1
+TOP.6464731a.0009d3d8	user_options->keep_guessing	0
+TOP.6464731a.0009d3d8	user_options->kernel_accel	0
+TOP.6464731a.0009d3d8	user_options->kernel_loops	0
+TOP.6464731a.0009d3d8	user_options->kernel_threads	0
+TOP.6464731a.0009d3d8	user_options->keyspace	0
+TOP.6464731a.0009d3d8	user_options->left	0
+TOP.6464731a.0009d3d8	user_options->logfile_disable	0
+TOP.6464731a.0009d3d8	user_options->loopback	0
+TOP.6464731a.0009d3d8	user_options->machine_readable	0
+TOP.6464731a.0009d3d8	user_options->markov_classic	0
+TOP.6464731a.0009d3d8	user_options->markov_disable	0
+TOP.6464731a.0009d3d8	user_options->markov_inverse	0
+TOP.6464731a.0009d3d8	user_options->markov_threshold	256
+TOP.6464731a.0009d3d8	user_options->multiply_accel_disable	0
+TOP.6464731a.0009d3d8	user_options->backend_info	0
+TOP.6464731a.0009d3d8	user_options->backend_vector_width	0
+TOP.6464731a.0009d3d8	user_options->optimized_kernel_enable	0
+TOP.6464731a.0009d3d8	user_options->outfile_autohex	1
+TOP.6464731a.0009d3d8	user_options->outfile_check_timer	5
+TOP.6464731a.0009d3d8	user_options->outfile_format	3
+TOP.6464731a.0009d3d8	user_options->wordlist_autohex_disable	0
+TOP.6464731a.0009d3d8	user_options->potfile_disable	0
+TOP.6464731a.0009d3d8	user_options->progress_only	0
+TOP.6464731a.0009d3d8	user_options->quiet	0
+TOP.6464731a.0009d3d8	user_options->remove	0
+TOP.6464731a.0009d3d8	user_options->remove_timer	60
+TOP.6464731a.0009d3d8	user_options->restore	0
+TOP.6464731a.0009d3d8	user_options->restore_disable	0
+TOP.6464731a.0009d3d8	user_options->restore_timer	1
+TOP.6464731a.0009d3d8	user_options->rp_files_cnt	0
+TOP.6464731a.0009d3d8	user_options->rp_gen	0
+TOP.6464731a.0009d3d8	user_options->rp_gen_func_max	4
+TOP.6464731a.0009d3d8	user_options->rp_gen_func_min	1
+TOP.6464731a.0009d3d8	user_options->rp_gen_seed	0
+TOP.6464731a.0009d3d8	user_options->runtime	0
+TOP.6464731a.0009d3d8	user_options->scrypt_tmto	0
+TOP.6464731a.0009d3d8	user_options->segment_size	33554432
+TOP.6464731a.0009d3d8	user_options->self_test_disable	0
+TOP.6464731a.0009d3d8	user_options->slow_candidates	0
+TOP.6464731a.0009d3d8	user_options->show	0
+TOP.6464731a.0009d3d8	user_options->speed_only	0
+TOP.6464731a.0009d3d8	user_options->spin_damp	0
+TOP.6464731a.0009d3d8	user_options->status	0
+TOP.6464731a.0009d3d8	user_options->status_json	0
+TOP.6464731a.0009d3d8	user_options->status_timer	10
+TOP.6464731a.0009d3d8	user_options->stdout_flag	0
+TOP.6464731a.0009d3d8	user_options->usage	0
+TOP.6464731a.0009d3d8	user_options->username	0
+TOP.6464731a.0009d3d8	user_options->veracrypt_pim_start	485
+TOP.6464731a.0009d3d8	user_options->veracrypt_pim_stop	485
+TOP.6464731a.0009d3d8	user_options->version	0
+TOP.6464731a.0009d3d8	user_options->workload_profile	2
+TOP.6464731a.0009d3d8	user_options->brain_client	0
+TOP.6464731a.0009d3d8	user_options->brain_client_features	2
+TOP.6464731a.0009d3d8	user_options->brain_server	0
+TOP.6464731a.0009d3d8	user_options->brain_server_timer	300
+TOP.6464731a.0009d3d8	user_options->brain_port	6863
+TOP.6464731a.0009d3d8	user_options->brain_session	0
+TOP.6464731a.0009d3d8	proc_start	1684304666
+TOP.6464731a.0009d3d8	proc_stop	1684304667
+TOP.6464731a.0009d3d8	STOP
+TOP.64647399.000171f6	START
+TOP.64647399.000171f6	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64647399.000171f6	folder_config->install_dir	.
+TOP.64647399.000171f6	folder_config->profile_dir	.
+TOP.64647399.000171f6	folder_config->session_dir	.
+TOP.64647399.000171f6	folder_config->shared_dir	.
+TOP.64647399.000171f6	user_options->custom_charset_1	?l?d?u
+TOP.64647399.000171f6	user_options->custom_charset_2	?l?d
+TOP.64647399.000171f6	user_options->custom_charset_3	?l?d*!$@_
+TOP.64647399.000171f6	user_options->encoding_from	utf-8
+TOP.64647399.000171f6	user_options->encoding_to	utf-8
+TOP.64647399.000171f6	user_options->rule_buf_l	:
+TOP.64647399.000171f6	user_options->rule_buf_r	:
+TOP.64647399.000171f6	user_options->session	hashcat
+TOP.64647399.000171f6	user_options->separator	:
+TOP.64647399.000171f6	user_options->limit	0
+TOP.64647399.000171f6	user_options->skip	0
+TOP.64647399.000171f6	user_options->attack_mode	3
+TOP.64647399.000171f6	user_options->benchmark	0
+TOP.64647399.000171f6	user_options->benchmark_all	0
+TOP.64647399.000171f6	user_options->bitmap_max	18
+TOP.64647399.000171f6	user_options->bitmap_min	16
+TOP.64647399.000171f6	user_options->debug_mode	0
+TOP.64647399.000171f6	user_options->hash_info	0
+TOP.64647399.000171f6	user_options->force	0
+TOP.64647399.000171f6	user_options->hwmon_disable	0
+TOP.64647399.000171f6	user_options->hwmon_temp_abort	90
+TOP.64647399.000171f6	user_options->hash_mode	0
+TOP.64647399.000171f6	user_options->hex_charset	0
+TOP.64647399.000171f6	user_options->hex_salt	0
+TOP.64647399.000171f6	user_options->hex_wordlist	0
+TOP.64647399.000171f6	user_options->hook_threads	4
+TOP.64647399.000171f6	user_options->identify	0
+TOP.64647399.000171f6	user_options->increment	1
+TOP.64647399.000171f6	user_options->increment_max	256
+TOP.64647399.000171f6	user_options->increment_min	1
+TOP.64647399.000171f6	user_options->keep_guessing	0
+TOP.64647399.000171f6	user_options->kernel_accel	0
+TOP.64647399.000171f6	user_options->kernel_loops	0
+TOP.64647399.000171f6	user_options->kernel_threads	0
+TOP.64647399.000171f6	user_options->keyspace	0
+TOP.64647399.000171f6	user_options->left	0
+TOP.64647399.000171f6	user_options->logfile_disable	0
+TOP.64647399.000171f6	user_options->loopback	0
+TOP.64647399.000171f6	user_options->machine_readable	0
+TOP.64647399.000171f6	user_options->markov_classic	0
+TOP.64647399.000171f6	user_options->markov_disable	0
+TOP.64647399.000171f6	user_options->markov_inverse	0
+TOP.64647399.000171f6	user_options->markov_threshold	256
+TOP.64647399.000171f6	user_options->multiply_accel_disable	0
+TOP.64647399.000171f6	user_options->backend_info	0
+TOP.64647399.000171f6	user_options->backend_vector_width	0
+TOP.64647399.000171f6	user_options->optimized_kernel_enable	0
+TOP.64647399.000171f6	user_options->outfile_autohex	1
+TOP.64647399.000171f6	user_options->outfile_check_timer	5
+TOP.64647399.000171f6	user_options->outfile_format	3
+TOP.64647399.000171f6	user_options->wordlist_autohex_disable	0
+TOP.64647399.000171f6	user_options->potfile_disable	0
+TOP.64647399.000171f6	user_options->progress_only	0
+TOP.64647399.000171f6	user_options->quiet	0
+TOP.64647399.000171f6	user_options->remove	0
+TOP.64647399.000171f6	user_options->remove_timer	60
+TOP.64647399.000171f6	user_options->restore	0
+TOP.64647399.000171f6	user_options->restore_disable	0
+TOP.64647399.000171f6	user_options->restore_timer	1
+TOP.64647399.000171f6	user_options->rp_files_cnt	0
+TOP.64647399.000171f6	user_options->rp_gen	0
+TOP.64647399.000171f6	user_options->rp_gen_func_max	4
+TOP.64647399.000171f6	user_options->rp_gen_func_min	1
+TOP.64647399.000171f6	user_options->rp_gen_seed	0
+TOP.64647399.000171f6	user_options->runtime	0
+TOP.64647399.000171f6	user_options->scrypt_tmto	0
+TOP.64647399.000171f6	user_options->segment_size	33554432
+TOP.64647399.000171f6	user_options->self_test_disable	0
+TOP.64647399.000171f6	user_options->slow_candidates	0
+TOP.64647399.000171f6	user_options->show	0
+TOP.64647399.000171f6	user_options->speed_only	0
+TOP.64647399.000171f6	user_options->spin_damp	0
+TOP.64647399.000171f6	user_options->status	0
+TOP.64647399.000171f6	user_options->status_json	0
+TOP.64647399.000171f6	user_options->status_timer	10
+TOP.64647399.000171f6	user_options->stdout_flag	0
+TOP.64647399.000171f6	user_options->usage	0
+TOP.64647399.000171f6	user_options->username	0
+TOP.64647399.000171f6	user_options->veracrypt_pim_start	485
+TOP.64647399.000171f6	user_options->veracrypt_pim_stop	485
+TOP.64647399.000171f6	user_options->version	0
+TOP.64647399.000171f6	user_options->workload_profile	2
+TOP.64647399.000171f6	user_options->brain_client	0
+TOP.64647399.000171f6	user_options->brain_client_features	2
+TOP.64647399.000171f6	user_options->brain_server	0
+TOP.64647399.000171f6	user_options->brain_server_timer	300
+TOP.64647399.000171f6	user_options->brain_port	6863
+TOP.64647399.000171f6	user_options->brain_session	0
+TOP.64647399.000171f6	proc_start	1684304793
+TOP.64647399.000171f6	proc_stop	1684304793
+TOP.64647399.000171f6	STOP
+TOP.64647844.00073fe6	START
+TOP.64647844.00073fe6	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64647844.00073fe6	folder_config->install_dir	.
+TOP.64647844.00073fe6	folder_config->profile_dir	.
+TOP.64647844.00073fe6	folder_config->session_dir	.
+TOP.64647844.00073fe6	folder_config->shared_dir	.
+TOP.64647844.00073fe6	user_options->custom_charset_1	?l?d?u
+TOP.64647844.00073fe6	user_options->custom_charset_2	?l?d
+TOP.64647844.00073fe6	user_options->custom_charset_3	?l?d*!$@_
+TOP.64647844.00073fe6	user_options->encoding_from	utf-8
+TOP.64647844.00073fe6	user_options->encoding_to	utf-8
+TOP.64647844.00073fe6	user_options->rule_buf_l	:
+TOP.64647844.00073fe6	user_options->rule_buf_r	:
+TOP.64647844.00073fe6	user_options->session	hashcat
+TOP.64647844.00073fe6	user_options->separator	:
+TOP.64647844.00073fe6	user_options->limit	0
+TOP.64647844.00073fe6	user_options->skip	0
+TOP.64647844.00073fe6	user_options->attack_mode	3
+TOP.64647844.00073fe6	user_options->benchmark	0
+TOP.64647844.00073fe6	user_options->benchmark_all	0
+TOP.64647844.00073fe6	user_options->bitmap_max	18
+TOP.64647844.00073fe6	user_options->bitmap_min	16
+TOP.64647844.00073fe6	user_options->debug_mode	0
+TOP.64647844.00073fe6	user_options->hash_info	0
+TOP.64647844.00073fe6	user_options->force	0
+TOP.64647844.00073fe6	user_options->hwmon_disable	0
+TOP.64647844.00073fe6	user_options->hwmon_temp_abort	90
+TOP.64647844.00073fe6	user_options->hash_mode	0
+TOP.64647844.00073fe6	user_options->hex_charset	0
+TOP.64647844.00073fe6	user_options->hex_salt	0
+TOP.64647844.00073fe6	user_options->hex_wordlist	0
+TOP.64647844.00073fe6	user_options->hook_threads	4
+TOP.64647844.00073fe6	user_options->identify	0
+TOP.64647844.00073fe6	user_options->increment	1
+TOP.64647844.00073fe6	user_options->increment_max	256
+TOP.64647844.00073fe6	user_options->increment_min	1
+TOP.64647844.00073fe6	user_options->keep_guessing	0
+TOP.64647844.00073fe6	user_options->kernel_accel	0
+TOP.64647844.00073fe6	user_options->kernel_loops	0
+TOP.64647844.00073fe6	user_options->kernel_threads	0
+TOP.64647844.00073fe6	user_options->keyspace	0
+TOP.64647844.00073fe6	user_options->left	0
+TOP.64647844.00073fe6	user_options->logfile_disable	0
+TOP.64647844.00073fe6	user_options->loopback	0
+TOP.64647844.00073fe6	user_options->machine_readable	0
+TOP.64647844.00073fe6	user_options->markov_classic	0
+TOP.64647844.00073fe6	user_options->markov_disable	0
+TOP.64647844.00073fe6	user_options->markov_inverse	0
+TOP.64647844.00073fe6	user_options->markov_threshold	256
+TOP.64647844.00073fe6	user_options->multiply_accel_disable	0
+TOP.64647844.00073fe6	user_options->backend_info	0
+TOP.64647844.00073fe6	user_options->backend_vector_width	0
+TOP.64647844.00073fe6	user_options->optimized_kernel_enable	0
+TOP.64647844.00073fe6	user_options->outfile_autohex	1
+TOP.64647844.00073fe6	user_options->outfile_check_timer	5
+TOP.64647844.00073fe6	user_options->outfile_format	3
+TOP.64647844.00073fe6	user_options->wordlist_autohex_disable	0
+TOP.64647844.00073fe6	user_options->potfile_disable	0
+TOP.64647844.00073fe6	user_options->progress_only	0
+TOP.64647844.00073fe6	user_options->quiet	0
+TOP.64647844.00073fe6	user_options->remove	0
+TOP.64647844.00073fe6	user_options->remove_timer	60
+TOP.64647844.00073fe6	user_options->restore	0
+TOP.64647844.00073fe6	user_options->restore_disable	0
+TOP.64647844.00073fe6	user_options->restore_timer	1
+TOP.64647844.00073fe6	user_options->rp_files_cnt	0
+TOP.64647844.00073fe6	user_options->rp_gen	0
+TOP.64647844.00073fe6	user_options->rp_gen_func_max	4
+TOP.64647844.00073fe6	user_options->rp_gen_func_min	1
+TOP.64647844.00073fe6	user_options->rp_gen_seed	0
+TOP.64647844.00073fe6	user_options->runtime	0
+TOP.64647844.00073fe6	user_options->scrypt_tmto	0
+TOP.64647844.00073fe6	user_options->segment_size	33554432
+TOP.64647844.00073fe6	user_options->self_test_disable	0
+TOP.64647844.00073fe6	user_options->slow_candidates	0
+TOP.64647844.00073fe6	user_options->show	0
+TOP.64647844.00073fe6	user_options->speed_only	0
+TOP.64647844.00073fe6	user_options->spin_damp	0
+TOP.64647844.00073fe6	user_options->status	0
+TOP.64647844.00073fe6	user_options->status_json	0
+TOP.64647844.00073fe6	user_options->status_timer	10
+TOP.64647844.00073fe6	user_options->stdout_flag	0
+TOP.64647844.00073fe6	user_options->usage	0
+TOP.64647844.00073fe6	user_options->username	0
+TOP.64647844.00073fe6	user_options->veracrypt_pim_start	485
+TOP.64647844.00073fe6	user_options->veracrypt_pim_stop	485
+TOP.64647844.00073fe6	user_options->version	0
+TOP.64647844.00073fe6	user_options->workload_profile	2
+TOP.64647844.00073fe6	user_options->brain_client	0
+TOP.64647844.00073fe6	user_options->brain_client_features	2
+TOP.64647844.00073fe6	user_options->brain_server	0
+TOP.64647844.00073fe6	user_options->brain_server_timer	300
+TOP.64647844.00073fe6	user_options->brain_port	6863
+TOP.64647844.00073fe6	user_options->brain_session	0
+TOP.64647844.00073fe6	hashes->hashfile	hashlist.txt
+TOP.64647844.00073fe6	hashes->hashlist_mode	5
+TOP.64647844.00073fe6	hashes->hashlist_format	0
+TOP.64647844.00073fe6	hashes->hashes_cnt	0
+TOP.64647844.00073fe6	hashes->digests_cnt	1
+TOP.64647844.00073fe6	hashes->digests_done_pot	0
+TOP.64647844.00073fe6	hashes->digests_done_zero	0
+TOP.64647844.00073fe6	hashes->digests_done	0
+TOP.64647844.00073fe6	hashes->salts_cnt	1
+TOP.64647844.00073fe6	hashes->salts_done	0
+TOP.64647844.00073fe6	SUB.64647846.00055812	START
+TOP.64647844.00073fe6	SUB.64647846.00055812	mask_ctx->mask	?1
+TOP.64647844.00073fe6	SUB.64647846.00055812	runtime_start	1684305991
+TOP.64647844.00073fe6	SUB.64647846.00055812	runtime_stop	1684305991
+TOP.64647844.00073fe6	SUB.64647846.00055812	hashes->digests_done_new	0
+TOP.64647844.00073fe6	SUB.64647846.00055812	status-after-work	5
+TOP.64647844.00073fe6	SUB.64647846.00055812	STOP
+TOP.64647844.00073fe6	SUB.64647848.000036cf	START
+TOP.64647844.00073fe6	SUB.64647848.000036cf	mask_ctx->mask	?1?2
+TOP.64647844.00073fe6	SUB.64647848.000036cf	runtime_start	1684305992
+TOP.64647844.00073fe6	SUB.64647848.000036cf	runtime_stop	1684305992
+TOP.64647844.00073fe6	SUB.64647848.000036cf	hashes->digests_done_new	0
+TOP.64647844.00073fe6	SUB.64647848.000036cf	status-after-work	5
+TOP.64647844.00073fe6	SUB.64647848.000036cf	STOP
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	START
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	mask_ctx->mask	?1?2?2
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	runtime_start	1684305993
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	runtime_stop	1684305993
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	hashes->digests_done_new	0
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	status-after-work	5
+TOP.64647844.00073fe6	SUB.64647848.000ba8a0	STOP
+TOP.64647844.00073fe6	SUB.64647849.0006b477	START
+TOP.64647844.00073fe6	SUB.64647849.0006b477	mask_ctx->mask	?1?2?2?2
+TOP.64647844.00073fe6	SUB.64647849.0006b477	runtime_start	1684305994
+TOP.64647844.00073fe6	SUB.64647849.0006b477	runtime_stop	1684305994
+TOP.64647844.00073fe6	SUB.64647849.0006b477	hashes->digests_done_new	1
+TOP.64647844.00073fe6	SUB.64647849.0006b477	status-after-work	6
+TOP.64647844.00073fe6	SUB.64647849.0006b477	STOP
+TOP.64647844.00073fe6	proc_start	1684305988
+TOP.64647844.00073fe6	proc_stop	1684305994
+TOP.64647844.00073fe6	STOP
+TOP.646478e7.0007f828	START
+TOP.646478e7.0007f828	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.646478e7.0007f828	folder_config->install_dir	.
+TOP.646478e7.0007f828	folder_config->profile_dir	.
+TOP.646478e7.0007f828	folder_config->session_dir	.
+TOP.646478e7.0007f828	folder_config->shared_dir	.
+TOP.646478e7.0007f828	user_options->custom_charset_1	?l?d?u
+TOP.646478e7.0007f828	user_options->custom_charset_2	?l?d
+TOP.646478e7.0007f828	user_options->custom_charset_3	?l?d*!$@_
+TOP.646478e7.0007f828	user_options->encoding_from	utf-8
+TOP.646478e7.0007f828	user_options->encoding_to	utf-8
+TOP.646478e7.0007f828	user_options->rule_buf_l	:
+TOP.646478e7.0007f828	user_options->rule_buf_r	:
+TOP.646478e7.0007f828	user_options->session	hashcat
+TOP.646478e7.0007f828	user_options->separator	:
+TOP.646478e7.0007f828	user_options->limit	0
+TOP.646478e7.0007f828	user_options->skip	0
+TOP.646478e7.0007f828	user_options->attack_mode	3
+TOP.646478e7.0007f828	user_options->benchmark	0
+TOP.646478e7.0007f828	user_options->benchmark_all	0
+TOP.646478e7.0007f828	user_options->bitmap_max	18
+TOP.646478e7.0007f828	user_options->bitmap_min	16
+TOP.646478e7.0007f828	user_options->debug_mode	0
+TOP.646478e7.0007f828	user_options->hash_info	0
+TOP.646478e7.0007f828	user_options->force	0
+TOP.646478e7.0007f828	user_options->hwmon_disable	0
+TOP.646478e7.0007f828	user_options->hwmon_temp_abort	90
+TOP.646478e7.0007f828	user_options->hash_mode	0
+TOP.646478e7.0007f828	user_options->hex_charset	0
+TOP.646478e7.0007f828	user_options->hex_salt	0
+TOP.646478e7.0007f828	user_options->hex_wordlist	0
+TOP.646478e7.0007f828	user_options->hook_threads	4
+TOP.646478e7.0007f828	user_options->identify	0
+TOP.646478e7.0007f828	user_options->increment	1
+TOP.646478e7.0007f828	user_options->increment_max	256
+TOP.646478e7.0007f828	user_options->increment_min	1
+TOP.646478e7.0007f828	user_options->keep_guessing	0
+TOP.646478e7.0007f828	user_options->kernel_accel	0
+TOP.646478e7.0007f828	user_options->kernel_loops	0
+TOP.646478e7.0007f828	user_options->kernel_threads	0
+TOP.646478e7.0007f828	user_options->keyspace	0
+TOP.646478e7.0007f828	user_options->left	0
+TOP.646478e7.0007f828	user_options->logfile_disable	0
+TOP.646478e7.0007f828	user_options->loopback	0
+TOP.646478e7.0007f828	user_options->machine_readable	0
+TOP.646478e7.0007f828	user_options->markov_classic	0
+TOP.646478e7.0007f828	user_options->markov_disable	0
+TOP.646478e7.0007f828	user_options->markov_inverse	0
+TOP.646478e7.0007f828	user_options->markov_threshold	256
+TOP.646478e7.0007f828	user_options->multiply_accel_disable	0
+TOP.646478e7.0007f828	user_options->backend_info	0
+TOP.646478e7.0007f828	user_options->backend_vector_width	0
+TOP.646478e7.0007f828	user_options->optimized_kernel_enable	0
+TOP.646478e7.0007f828	user_options->outfile_autohex	1
+TOP.646478e7.0007f828	user_options->outfile_check_timer	5
+TOP.646478e7.0007f828	user_options->outfile_format	3
+TOP.646478e7.0007f828	user_options->wordlist_autohex_disable	0
+TOP.646478e7.0007f828	user_options->potfile_disable	0
+TOP.646478e7.0007f828	user_options->progress_only	0
+TOP.646478e7.0007f828	user_options->quiet	0
+TOP.646478e7.0007f828	user_options->remove	0
+TOP.646478e7.0007f828	user_options->remove_timer	60
+TOP.646478e7.0007f828	user_options->restore	0
+TOP.646478e7.0007f828	user_options->restore_disable	0
+TOP.646478e7.0007f828	user_options->restore_timer	1
+TOP.646478e7.0007f828	user_options->rp_files_cnt	0
+TOP.646478e7.0007f828	user_options->rp_gen	0
+TOP.646478e7.0007f828	user_options->rp_gen_func_max	4
+TOP.646478e7.0007f828	user_options->rp_gen_func_min	1
+TOP.646478e7.0007f828	user_options->rp_gen_seed	0
+TOP.646478e7.0007f828	user_options->runtime	0
+TOP.646478e7.0007f828	user_options->scrypt_tmto	0
+TOP.646478e7.0007f828	user_options->segment_size	33554432
+TOP.646478e7.0007f828	user_options->self_test_disable	0
+TOP.646478e7.0007f828	user_options->slow_candidates	0
+TOP.646478e7.0007f828	user_options->show	0
+TOP.646478e7.0007f828	user_options->speed_only	0
+TOP.646478e7.0007f828	user_options->spin_damp	0
+TOP.646478e7.0007f828	user_options->status	0
+TOP.646478e7.0007f828	user_options->status_json	0
+TOP.646478e7.0007f828	user_options->status_timer	10
+TOP.646478e7.0007f828	user_options->stdout_flag	0
+TOP.646478e7.0007f828	user_options->usage	0
+TOP.646478e7.0007f828	user_options->username	0
+TOP.646478e7.0007f828	user_options->veracrypt_pim_start	485
+TOP.646478e7.0007f828	user_options->veracrypt_pim_stop	485
+TOP.646478e7.0007f828	user_options->version	0
+TOP.646478e7.0007f828	user_options->workload_profile	2
+TOP.646478e7.0007f828	user_options->brain_client	0
+TOP.646478e7.0007f828	user_options->brain_client_features	2
+TOP.646478e7.0007f828	user_options->brain_server	0
+TOP.646478e7.0007f828	user_options->brain_server_timer	300
+TOP.646478e7.0007f828	user_options->brain_port	6863
+TOP.646478e7.0007f828	user_options->brain_session	0
+TOP.646478e7.0007f828	proc_start	1684306151
+TOP.646478e7.0007f828	proc_stop	1684306152
+TOP.646478e7.0007f828	STOP
+TOP.64648c9b.0005e132	START
+TOP.64648c9b.0005e132	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64648c9b.0005e132	folder_config->install_dir	.
+TOP.64648c9b.0005e132	folder_config->profile_dir	.
+TOP.64648c9b.0005e132	folder_config->session_dir	.
+TOP.64648c9b.0005e132	folder_config->shared_dir	.
+TOP.64648c9b.0005e132	user_options->custom_charset_1	?l?d?u
+TOP.64648c9b.0005e132	user_options->custom_charset_2	?l?d
+TOP.64648c9b.0005e132	user_options->custom_charset_3	?l?d*!$@_
+TOP.64648c9b.0005e132	user_options->encoding_from	utf-8
+TOP.64648c9b.0005e132	user_options->encoding_to	utf-8
+TOP.64648c9b.0005e132	user_options->rule_buf_l	:
+TOP.64648c9b.0005e132	user_options->rule_buf_r	:
+TOP.64648c9b.0005e132	user_options->session	hashcat
+TOP.64648c9b.0005e132	user_options->separator	:
+TOP.64648c9b.0005e132	user_options->limit	0
+TOP.64648c9b.0005e132	user_options->skip	0
+TOP.64648c9b.0005e132	user_options->attack_mode	3
+TOP.64648c9b.0005e132	user_options->benchmark	0
+TOP.64648c9b.0005e132	user_options->benchmark_all	0
+TOP.64648c9b.0005e132	user_options->bitmap_max	18
+TOP.64648c9b.0005e132	user_options->bitmap_min	16
+TOP.64648c9b.0005e132	user_options->debug_mode	0
+TOP.64648c9b.0005e132	user_options->hash_info	0
+TOP.64648c9b.0005e132	user_options->force	0
+TOP.64648c9b.0005e132	user_options->hwmon_disable	0
+TOP.64648c9b.0005e132	user_options->hwmon_temp_abort	90
+TOP.64648c9b.0005e132	user_options->hash_mode	0
+TOP.64648c9b.0005e132	user_options->hex_charset	0
+TOP.64648c9b.0005e132	user_options->hex_salt	0
+TOP.64648c9b.0005e132	user_options->hex_wordlist	0
+TOP.64648c9b.0005e132	user_options->hook_threads	4
+TOP.64648c9b.0005e132	user_options->identify	0
+TOP.64648c9b.0005e132	user_options->increment	1
+TOP.64648c9b.0005e132	user_options->increment_max	256
+TOP.64648c9b.0005e132	user_options->increment_min	1
+TOP.64648c9b.0005e132	user_options->keep_guessing	0
+TOP.64648c9b.0005e132	user_options->kernel_accel	0
+TOP.64648c9b.0005e132	user_options->kernel_loops	0
+TOP.64648c9b.0005e132	user_options->kernel_threads	0
+TOP.64648c9b.0005e132	user_options->keyspace	0
+TOP.64648c9b.0005e132	user_options->left	0
+TOP.64648c9b.0005e132	user_options->logfile_disable	0
+TOP.64648c9b.0005e132	user_options->loopback	0
+TOP.64648c9b.0005e132	user_options->machine_readable	0
+TOP.64648c9b.0005e132	user_options->markov_classic	0
+TOP.64648c9b.0005e132	user_options->markov_disable	0
+TOP.64648c9b.0005e132	user_options->markov_inverse	0
+TOP.64648c9b.0005e132	user_options->markov_threshold	256
+TOP.64648c9b.0005e132	user_options->multiply_accel_disable	0
+TOP.64648c9b.0005e132	user_options->backend_info	0
+TOP.64648c9b.0005e132	user_options->backend_vector_width	0
+TOP.64648c9b.0005e132	user_options->optimized_kernel_enable	0
+TOP.64648c9b.0005e132	user_options->outfile_autohex	1
+TOP.64648c9b.0005e132	user_options->outfile_check_timer	5
+TOP.64648c9b.0005e132	user_options->outfile_format	3
+TOP.64648c9b.0005e132	user_options->wordlist_autohex_disable	0
+TOP.64648c9b.0005e132	user_options->potfile_disable	0
+TOP.64648c9b.0005e132	user_options->progress_only	0
+TOP.64648c9b.0005e132	user_options->quiet	0
+TOP.64648c9b.0005e132	user_options->remove	0
+TOP.64648c9b.0005e132	user_options->remove_timer	60
+TOP.64648c9b.0005e132	user_options->restore	0
+TOP.64648c9b.0005e132	user_options->restore_disable	0
+TOP.64648c9b.0005e132	user_options->restore_timer	1
+TOP.64648c9b.0005e132	user_options->rp_files_cnt	0
+TOP.64648c9b.0005e132	user_options->rp_gen	0
+TOP.64648c9b.0005e132	user_options->rp_gen_func_max	4
+TOP.64648c9b.0005e132	user_options->rp_gen_func_min	1
+TOP.64648c9b.0005e132	user_options->rp_gen_seed	0
+TOP.64648c9b.0005e132	user_options->runtime	0
+TOP.64648c9b.0005e132	user_options->scrypt_tmto	0
+TOP.64648c9b.0005e132	user_options->segment_size	33554432
+TOP.64648c9b.0005e132	user_options->self_test_disable	0
+TOP.64648c9b.0005e132	user_options->slow_candidates	0
+TOP.64648c9b.0005e132	user_options->show	0
+TOP.64648c9b.0005e132	user_options->speed_only	0
+TOP.64648c9b.0005e132	user_options->spin_damp	0
+TOP.64648c9b.0005e132	user_options->status	0
+TOP.64648c9b.0005e132	user_options->status_json	0
+TOP.64648c9b.0005e132	user_options->status_timer	10
+TOP.64648c9b.0005e132	user_options->stdout_flag	0
+TOP.64648c9b.0005e132	user_options->usage	0
+TOP.64648c9b.0005e132	user_options->username	0
+TOP.64648c9b.0005e132	user_options->veracrypt_pim_start	485
+TOP.64648c9b.0005e132	user_options->veracrypt_pim_stop	485
+TOP.64648c9b.0005e132	user_options->version	0
+TOP.64648c9b.0005e132	user_options->workload_profile	2
+TOP.64648c9b.0005e132	user_options->brain_client	0
+TOP.64648c9b.0005e132	user_options->brain_client_features	2
+TOP.64648c9b.0005e132	user_options->brain_server	0
+TOP.64648c9b.0005e132	user_options->brain_server_timer	300
+TOP.64648c9b.0005e132	user_options->brain_port	6863
+TOP.64648c9b.0005e132	user_options->brain_session	0
+TOP.64648c9b.0005e132	hashes->hashfile	hashlist.txt
+TOP.64648c9b.0005e132	hashes->hashlist_mode	5
+TOP.64648c9b.0005e132	hashes->hashlist_format	0
+TOP.64648c9b.0005e132	hashes->hashes_cnt	0
+TOP.64648c9b.0005e132	hashes->digests_cnt	1
+TOP.64648c9b.0005e132	hashes->digests_done_pot	0
+TOP.64648c9b.0005e132	hashes->digests_done_zero	0
+TOP.64648c9b.0005e132	hashes->digests_done	0
+TOP.64648c9b.0005e132	hashes->salts_cnt	1
+TOP.64648c9b.0005e132	hashes->salts_done	0
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	START
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	mask_ctx->mask	?1
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	runtime_start	1684311199
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	runtime_stop	1684311199
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	hashes->digests_done_new	0
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	status-after-work	5
+TOP.64648c9b.0005e132	SUB.64648c9e.00017478	STOP
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	START
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	mask_ctx->mask	?1?2
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	runtime_start	1684311202
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	runtime_stop	1684311202
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	hashes->digests_done_new	0
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	status-after-work	5
+TOP.64648c9b.0005e132	SUB.64648c9f.000dc37d	STOP
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	START
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	mask_ctx->mask	?1?2?2
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	runtime_start	1684311204
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	runtime_stop	1684311204
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	hashes->digests_done_new	0
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	status-after-work	5
+TOP.64648c9b.0005e132	SUB.64648ca2.0004be65	STOP
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	START
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	mask_ctx->mask	?1?2?2?2
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	runtime_start	1684311205
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	runtime_stop	1684311205
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	hashes->digests_done_new	1
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	status-after-work	6
+TOP.64648c9b.0005e132	SUB.64648ca5.00017acd	STOP
+TOP.64648c9b.0005e132	proc_start	1684311195
+TOP.64648c9b.0005e132	proc_stop	1684311207
+TOP.64648c9b.0005e132	STOP
+TOP.64648cc9.0007b372	START
+TOP.64648cc9.0007b372	folder_config->cwd	C:\hashcat-6.2.6\hashcat-6.2.6
+TOP.64648cc9.0007b372	folder_config->install_dir	.
+TOP.64648cc9.0007b372	folder_config->profile_dir	.
+TOP.64648cc9.0007b372	folder_config->session_dir	.
+TOP.64648cc9.0007b372	folder_config->shared_dir	.
+TOP.64648cc9.0007b372	user_options->custom_charset_1	?l?d?u
+TOP.64648cc9.0007b372	user_options->custom_charset_2	?l?d
+TOP.64648cc9.0007b372	user_options->custom_charset_3	?l?d*!$@_
+TOP.64648cc9.0007b372	user_options->encoding_from	utf-8
+TOP.64648cc9.0007b372	user_options->encoding_to	utf-8
+TOP.64648cc9.0007b372	user_options->rule_buf_l	:
+TOP.64648cc9.0007b372	user_options->rule_buf_r	:
+TOP.64648cc9.0007b372	user_options->session	hashcat
+TOP.64648cc9.0007b372	user_options->separator	:
+TOP.64648cc9.0007b372	user_options->limit	0
+TOP.64648cc9.0007b372	user_options->skip	0
+TOP.64648cc9.0007b372	user_options->attack_mode	3
+TOP.64648cc9.0007b372	user_options->benchmark	0
+TOP.64648cc9.0007b372	user_options->benchmark_all	0
+TOP.64648cc9.0007b372	user_options->bitmap_max	18
+TOP.64648cc9.0007b372	user_options->bitmap_min	16
+TOP.64648cc9.0007b372	user_options->debug_mode	0
+TOP.64648cc9.0007b372	user_options->hash_info	0
+TOP.64648cc9.0007b372	user_options->force	0
+TOP.64648cc9.0007b372	user_options->hwmon_disable	0
+TOP.64648cc9.0007b372	user_options->hwmon_temp_abort	90
+TOP.64648cc9.0007b372	user_options->hash_mode	0
+TOP.64648cc9.0007b372	user_options->hex_charset	0
+TOP.64648cc9.0007b372	user_options->hex_salt	0
+TOP.64648cc9.0007b372	user_options->hex_wordlist	0
+TOP.64648cc9.0007b372	user_options->hook_threads	4
+TOP.64648cc9.0007b372	user_options->identify	0
+TOP.64648cc9.0007b372	user_options->increment	1
+TOP.64648cc9.0007b372	user_options->increment_max	256
+TOP.64648cc9.0007b372	user_options->increment_min	1
+TOP.64648cc9.0007b372	user_options->keep_guessing	0
+TOP.64648cc9.0007b372	user_options->kernel_accel	0
+TOP.64648cc9.0007b372	user_options->kernel_loops	0
+TOP.64648cc9.0007b372	user_options->kernel_threads	0
+TOP.64648cc9.0007b372	user_options->keyspace	0
+TOP.64648cc9.0007b372	user_options->left	0
+TOP.64648cc9.0007b372	user_options->logfile_disable	0
+TOP.64648cc9.0007b372	user_options->loopback	0
+TOP.64648cc9.0007b372	user_options->machine_readable	0
+TOP.64648cc9.0007b372	user_options->markov_classic	0
+TOP.64648cc9.0007b372	user_options->markov_disable	0
+TOP.64648cc9.0007b372	user_options->markov_inverse	0
+TOP.64648cc9.0007b372	user_options->markov_threshold	256
+TOP.64648cc9.0007b372	user_options->multiply_accel_disable	0
+TOP.64648cc9.0007b372	user_options->backend_info	0
+TOP.64648cc9.0007b372	user_options->backend_vector_width	0
+TOP.64648cc9.0007b372	user_options->optimized_kernel_enable	0
+TOP.64648cc9.0007b372	user_options->outfile_autohex	1
+TOP.64648cc9.0007b372	user_options->outfile_check_timer	5
+TOP.64648cc9.0007b372	user_options->outfile_format	3
+TOP.64648cc9.0007b372	user_options->wordlist_autohex_disable	0
+TOP.64648cc9.0007b372	user_options->potfile_disable	0
+TOP.64648cc9.0007b372	user_options->progress_only	0
+TOP.64648cc9.0007b372	user_options->quiet	0
+TOP.64648cc9.0007b372	user_options->remove	0
+TOP.64648cc9.0007b372	user_options->remove_timer	60
+TOP.64648cc9.0007b372	user_options->restore	0
+TOP.64648cc9.0007b372	user_options->restore_disable	0
+TOP.64648cc9.0007b372	user_options->restore_timer	1
+TOP.64648cc9.0007b372	user_options->rp_files_cnt	0
+TOP.64648cc9.0007b372	user_options->rp_gen	0
+TOP.64648cc9.0007b372	user_options->rp_gen_func_max	4
+TOP.64648cc9.0007b372	user_options->rp_gen_func_min	1
+TOP.64648cc9.0007b372	user_options->rp_gen_seed	0
+TOP.64648cc9.0007b372	user_options->runtime	0
+TOP.64648cc9.0007b372	user_options->scrypt_tmto	0
+TOP.64648cc9.0007b372	user_options->segment_size	33554432
+TOP.64648cc9.0007b372	user_options->self_test_disable	0
+TOP.64648cc9.0007b372	user_options->slow_candidates	0
+TOP.64648cc9.0007b372	user_options->show	0
+TOP.64648cc9.0007b372	user_options->speed_only	0
+TOP.64648cc9.0007b372	user_options->spin_damp	0
+TOP.64648cc9.0007b372	user_options->status	0
+TOP.64648cc9.0007b372	user_options->status_json	0
+TOP.64648cc9.0007b372	user_options->status_timer	10
+TOP.64648cc9.0007b372	user_options->stdout_flag	0
+TOP.64648cc9.0007b372	user_options->usage	0
+TOP.64648cc9.0007b372	user_options->username	0
+TOP.64648cc9.0007b372	user_options->veracrypt_pim_start	485
+TOP.64648cc9.0007b372	user_options->veracrypt_pim_stop	485
+TOP.64648cc9.0007b372	user_options->version	0
+TOP.64648cc9.0007b372	user_options->workload_profile	2
+TOP.64648cc9.0007b372	user_options->brain_client	0
+TOP.64648cc9.0007b372	user_options->brain_client_features	2
+TOP.64648cc9.0007b372	user_options->brain_server	0
+TOP.64648cc9.0007b372	user_options->brain_server_timer	300
+TOP.64648cc9.0007b372	user_options->brain_port	6863
+TOP.64648cc9.0007b372	user_options->brain_session	0
+TOP.64648cc9.0007b372	proc_start	1684311241
+TOP.64648cc9.0007b372	proc_stop	1684311242
+TOP.64648cc9.0007b372	STOP
